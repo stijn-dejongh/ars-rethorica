@@ -85,7 +85,7 @@ public class PerseusStaxParser {
                         notes.add(currentFootNote);
                         readingNote = false;
                         currentFootNote = "";
-                        currentSectionContent += "[^" + notes.size() + "] ";
+                        currentSectionContent += "[^^" + notes.size() + "] ";
                     }
                 }
 

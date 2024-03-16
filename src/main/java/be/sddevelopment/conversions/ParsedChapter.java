@@ -17,8 +17,10 @@ public record ParsedChapter(List<Section> sections, List<String> footnotes) {
             lines.addAll(section.references());
         });
         lines.add(lineSeparator());
+        lines.add("{pagebreak}");
+        lines.add(lineSeparator());
         footnotes.stream()
-                .map(footnote -> "[^%d]: %s".formatted(footnotes.indexOf(footnote), footnote))
+                .map(footnote -> "[^^%d]: %s".formatted(footnotes.indexOf(footnote), footnote))
                 .map(footnote -> footnote + lineSeparator())
                 .forEach(lines::add);
         return lines;
