@@ -20,13 +20,14 @@ import static org.apache.commons.lang3.StringUtils.strip;
 public class PerseusStaxParser {
 
     public static void main(String[] args) throws URISyntaxException, IOException {
-        var resource = PerseusStaxParser.class.getClassLoader().getResource("raw_export/book1/books1chapter1.xml");
+        var book = "book1";
+        var resource = PerseusStaxParser.class.getClassLoader().getResource("raw_export/"+ book + "/full.xml");
         Path inputFile = Paths.get(resource.toURI());
         var result = new PerseusStaxParser().parse(inputFile);
 
-        var outputFileName = inputFile.toFile().getName().replace(".xml", "") + "_parsed.md";
-        Path outputFile = Paths.get("/media/stijnd/DATA/development/projects/ars-rethorica/manuscript").resolve(outputFileName);
         for (ParsedChapter chapter : result.chapters()) {
+            var outputFileName = book +  "chapter" + (result.chapters().indexOf(chapter)+1) + ".md";
+            Path outputFile = Paths.get("/media/stijnd/DATA/development/projects/ars-rethorica/manuscript").resolve(outputFileName);
             write(outputFile, chapter.toMarkdown(result.chapters().indexOf(chapter) + 1));
         }
     }
@@ -51,7 +52,7 @@ public class PerseusStaxParser {
                         case "milestone" -> {
                             var mileStoneUnit = startElement.getAttributeByName(new QName("unit"));
                             if ("chapter".equals(mileStoneUnit.getValue()) && !currentSections.isEmpty()) {
-                                chapters.add(new ParsedChapter(currentSections, notes));
+                                chapters.add(new ParsedChapter(new ArrayList<>(currentSections), new ArrayList<>(notes)));
                                 currentSections.clear();
                                 notes.clear();
                             }
