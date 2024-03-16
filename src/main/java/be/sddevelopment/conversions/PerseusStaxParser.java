@@ -83,10 +83,11 @@ public class PerseusStaxParser {
                         currentSectionContent = "";
                     }
                     if (name.equals("note")) {
-                        notes.add(currentFootNote);
+                        var noteToAdd = "[^^%d_%d]: %s".formatted(chapters.size(), notes.size()+1, currentFootNote);
+                        notes.add(noteToAdd);
                         readingNote = false;
                         currentFootNote = "";
-                        currentSectionContent += "[^^" + notes.size() + "] ";
+                        currentSectionContent += "[^^%d_%d] ".formatted(chapters.size(), notes.size()) ;
                     }
                 }
 
