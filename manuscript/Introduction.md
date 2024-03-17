@@ -19,7 +19,6 @@ Tufts University aims to provide a comprehensive catalogue of texts from the anc
 As such, their work is licensed in such a way to enable the free sharing of knowledge.
 To read more about the Perseus Hopper, you can visit their website at [http://www.perseus.tufts.edu/hopper](http://www.perseus.tufts.edu/hopper).
 
-
 # Introduction
 
 {blurb, class: info}
@@ -27,10 +26,10 @@ This book is a derivative work, based on the translation of Aristotle's Rhetoric
 The publisher takes no credit for the original work, and has no intention to claim ownership of this intellectual property.
 {/blurb}
 
-The Rhetoric consists of three books. **Book I (one)** offers a general overview, presenting the purposes of rhetoric and a working definition; it 
-also offers a detailed discussion of the major contexts and types of rhetoric. **Book II (two)** discusses in detail the three means of persuasion 
-that an orator must rely on: those grounded in credibility (`ethos`), in the emotions and psychology of the audience (`pathos`), and in patterns 
-of reasoning (`logos`). **Book III (three)** introduces the elements of style (word choice, metaphor, and sentence structure) and arrangement 
+The Rhetoric consists of three books. **Book I (one)** offers a general overview, presenting the purposes of rhetoric and a working definition; it
+also offers a detailed discussion of the major contexts and types of rhetoric. **Book II (two)** discusses in detail the three means of persuasion
+that an orator must rely on: those grounded in credibility (`ethos`), in the emotions and psychology of the audience (`pathos`), and in patterns
+of reasoning (`logos`). **Book III (three)** introduces the elements of style (word choice, metaphor, and sentence structure) and arrangement
 (organization) . Some attention is paid to delivery, but generally the reader is referred to Aristotle's Poetics for more information in that area.
 
 ## Translators
@@ -52,6 +51,13 @@ You can find the full translation by J.H. Freese on the Perseus Hopper,
 at [http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0060](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0060).
 For more background information of Artisto's Rhetoric, you can visit the [Wikipedia page](https://en.wikipedia.org/wiki/Rhetoric_(Aristotle)).
 
+## Aristotle
+
+Aristotle, Aristoteles (pronounced *"are-is-toe-tell-less"*) in ancient Greek, was a philosopher and polymath in ancient Greece.
+His writings cover a broad range of subjects spanning the natural sciences, philosophy, linguistics, economics, politics, psychology, and the arts.
+As the founder of the Peripatetic school of philosophy in the Lyceum in Athens, he began the wider Aristotelian tradition that followed, which set
+the groundwork for the development of modern science.
+
 ## About this book
 
 This book was edited for the modern reader, to make the content accessible on modern devices.
@@ -62,7 +68,6 @@ I wanted to revisit the content, as the concepts of rhetoric are highly applicab
 As I was unable to find a modern digital version of the text, I decoded to transpile the text myself, and make it available to the public.
 
 I hope you enjoy the read, and that you find the content as insightful as I did.
-
 
 Regards,
 
