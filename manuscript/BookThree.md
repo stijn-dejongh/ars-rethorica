@@ -1,3 +1,3 @@
 {class: part}
-# Book Three: Stylistic Delivery and Arrangement Techniques
+# III: Stylistic Delivery and Arrangement Techniques
 

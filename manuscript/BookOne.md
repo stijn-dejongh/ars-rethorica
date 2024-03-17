@@ -1,2 +1,2 @@
 {class: part}
-# Book One: Purposes and Definitions of Rhetoric
+# I: Purposes and Definitions of Rhetoric
