@@ -20,7 +20,7 @@ import static org.apache.commons.lang3.StringUtils.strip;
 public class PerseusStaxParser {
 
     public static void main(String[] args) throws URISyntaxException, IOException {
-        var book = "book1";
+        var book = "book2";
         var resource = PerseusStaxParser.class.getClassLoader().getResource("raw_export/"+ book + "/full.xml");
         Path inputFile = Paths.get(resource.toURI());
         var result = new PerseusStaxParser().parse(inputFile);
