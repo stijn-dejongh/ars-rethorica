@@ -1,2 +1,2 @@
 {class: part}
-# Aristotle's Rhetoric: Book One
+# Book One: Purposes and Definitions of Rhetoric

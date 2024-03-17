@@ -15,3 +15,5 @@ book1chapter12.md
 book1chapter13.md
 book1chapter14.md
 book1chapter15.md
+BookTwo.md
+BookThree.md
