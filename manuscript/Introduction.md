@@ -32,6 +32,8 @@ that an orator must rely on: those grounded in credibility (`ethos`), in the emo
 of reasoning (`logos`). **Book III (three)** introduces the elements of style (word choice, metaphor, and sentence structure) and arrangement
 (organization) . Some attention is paid to delivery, but generally the reader is referred to Aristotle's Poetics for more information in that area.
 
+{pagebreak}
+
 ## Translators
 
 Aristotle's Rhetoric is an ancient Greek text, discussing the fine art of persuasion and debate.
@@ -51,6 +53,7 @@ You can find the full translation by J.H. Freese on the Perseus Hopper,
 at [http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0060](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0060).
 For more background information of Artisto's Rhetoric, you can visit the [Wikipedia page](https://en.wikipedia.org/wiki/Rhetoric_(Aristotle)).
 
+{pagebreak}
 ## Aristotle
 
 Aristotle, Aristoteles (pronounced *"are-is-toe-tell-less"*) in ancient Greek, was a philosopher and polymath in ancient Greece.
