@@ -51,8 +51,7 @@ whether a thing has happened, or will happen, or not; and for the greatness or s
 
 {pagebreak}
 
-[^^18_1]: As a general rule, from their nature as contraries, although it may not be true in particular cases. If a man isAs a general rule, from
-their nature as contraries, although it may not be true in particular cases. If a man is ill, he may also be well, although in particular cases
+[^^18_1]: As a general rule, from their nature as contraries, although it may not be true in particular cases. If a man is ill, he may also be well, although in particular cases
 certain qualities may make him more liable to one or the other, e.g. he may suffer from an incurable disease (Schrader).
 
 [^^18_2]: An argumentAn argument a fortiori. If a beautiful house can be built, so can a house of any kind; for this is easier.
@@ -61,5 +60,5 @@ certain qualities may make him more liable to one or the other, e.g. he may suff
 
 [^^18_4]: T.G.F. p. 765.
 
-[^^18_5]: Book 1.7.Book 1.7. 
+[^^18_5]: Book 1.7. 
 

@@ -50,22 +50,22 @@ After this has been made clear, we will settle the question of solutions and obj
 
 {pagebreak}
 
-[^^21_1]: The conclusion must not be reached by means of a long series of arguments, as it were strungThe conclusion must not be reached by means of
+[^^21_1]: The conclusion must not be reached by means of
 a long series of arguments, as it were strung together in a chain: cp. 1.2.12, where the hearers are spoken of as unable to take in at a glance a
 long series of arguments or “to follow a long chain of reasoning” ( οὐδὲ λογίζεσθαι πόρρωθεν ).
 
 [^^21_2]: Eur. Hipp. 989 .
 
-[^^21_3]: Or, “by means of theOr, “by means of the speech it is impossible to prove anything otherwise” (Cope).
+[^^21_3]: Or, “by means of the speech it is impossible to prove anything otherwise” (Cope).
 
 [^^21_4]: Aristot. Top. 1.14 . πρῶτον : i.e. “the speaker's chief care should be . . .”
 
 [^^21_5]: The more suitable they will be, and the less they will resemble ordinary, trivial generalities.The more suitable they will be, and the
 less they will resemble ordinary, trivial generalities.
 
-[^^21_6]: The demonstrative enthymeme draws its conclusion from facts admitted by the opponent; the refutativeThe demonstrative enthymeme draws its
+[^^21_6]: The demonstrative enthymeme draws its
 conclusion from facts admitted by the opponent; the refutative draws its conclusion from the same, but the conclusion is one which is disputed by
 the opponent.
 
-[^^21_7]: Or, “noting in addition” (Victorius); or,Or, “noting in addition” (Victorius); or, “pointing out, side by side” (Jebb). 
+[^^21_7]: Or, “noting in addition” (Victorius); or, “pointing out, side by side” (Jebb). 
 

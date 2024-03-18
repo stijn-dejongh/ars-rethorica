@@ -19,8 +19,7 @@ are, for they would be better able to injure us, if they could injure those stro
 ourselves are afraid of, for the same reason. And those who have overthrown those who are stronger than us and those who attack those who are
 weaker, for they are either already to be feared, or will be, when they have grown stronger.
 
-And among those whom we have wronged, or are our enemies or rivals,we should fear
-not the hot-tempered orAnd among those whom we have wronged, or are our enemies or rivals,we should fear not the hot-tempered or outspoken, but
+And among those whom we have wronged, or are our enemies or rivals,we should fear not the hot-tempered or outspoken, but
 those who are mild, dissemblers, and thorough rascals; for i t is uncertain whether they are on the point of acting, so that one never knows whether
 they are far from it. [^^4_3] All things that are to be feared are more so when, after an error has once been committed, it is impossible to repair
 it, either because it is absolutely impossible, or no longer in our power, but in that of our opponents; also when there is no possibility of help
@@ -61,17 +60,16 @@ or future, or hope for success. Such are the things that inspire fear or confide
 
 {pagebreak}
 
-[^^4_1]: By the definitions of anger and hatred.By the definitions of anger and hatred.
+[^^4_1]: By the definitions of anger and hatred.
 
-[^^4_2]: And therefore, having the inclination to be unjust, if he hasAnd therefore, having the inclination to be unjust, if he has the power, he
+[^^4_2]: And therefore, having the inclination to be unjust, if he has the power, he
 will be so.
 
-[^^4_3]: Or simply, “near . . . far from us.”Or simply, “near . . . far from us.”
+[^^4_3]: Or simply, “near . . . far from us.”
 
 [^^4_4]: τὰ σωτήρια or some other word instead of τὰ θαρραλέα would be expected, to avoid the tautology. The fact of remoteness inspires confidence,
 because we do not expect fearful things to happen; while salutary things inspire it if near at hand, because we expect them to happen.
 
-[^^4_5]: It is assumed that the gods will be on our side if we have suffered wrong; suffering wrong rouses angerIt is assumed that the gods will be
-on our side if we have suffered wrong; suffering wrong rouses anger and at the same time inspires confidence, if our relations with the gods are
+[^^4_5]: It is assumed that the gods will be on our side if we have suffered wrong; suffering wrong rouses anger and at the same time inspires confidence, if our relations with the gods are
 such that we feel we can rely upon them for assistance. 
 

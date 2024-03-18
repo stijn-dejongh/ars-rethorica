@@ -90,9 +90,7 @@ But if you tender the oath, you may say that it is an act of piety to be willing
 look for other judges, for you allow him to make the decision himself; and that it would be ridiculous that he should be unwilling to take an oath
 in cases where he demands that the dicasts should take one.
 
-Now, since we have shown how we must deal with each case individually, it is
-clear how we must deal with them when taken two and two; for instance, if weNow, since we have shown how we must deal with each case individually,
-it is clear how we must deal with them when taken two and two; for instance, if we wish to take the oath but not to tender it, to tender it but not
+Now, since we have shown how we must deal with each case individually, it is clear how we must deal with them when taken two and two; for instance, if we wish to take the oath but not to tender it, to tender it but not
 to take it, to accept and tender it, or to do neither the one nor the other. For such cases, and similarly the arguments, must be a combination of
 those already mentioned. And if we have already taken an oath which contradicts the present one, we may argue that it is not perjury; for whereas
 wrongdoing is voluntary, and perjury is wrongdoing, what is done in error or under compulsion is involuntary. Here we must draw the conclusion that
@@ -103,10 +101,10 @@ should employ all means of amplification. Let this suffice for the inartificial 
 
 {pagebreak}
 
-[^^14_1]: Although the use of inartificial proofs is almost entirely confined to forensic oratory, theyAlthough the use of inartificial proofs is
+[^^14_1]: Although the use of inartificial proofs is
 almost entirely confined to forensic oratory, they may be used in deliberative oratory.
 
-[^^14_2]: The first line is quoted 1.13.2. The secondThe first line is quoted 1.13.2. The second differs somewhat from Soph. Ant. 458 , where the
+[^^14_2]: The first line is quoted 1.13.2. The second differs somewhat from Soph. Ant. 458 , where the
 passage runs, τούτων ἐγὼ οὐκ ἔμελλον, ἀνδρὸς οὐδινὸς φρόνημα δείσασ᾽, ἐν θεοῖσι τὴν δίκην δώσειν (“I was not likely, through fear of the pride of
 any man, to incur the penalty for violating these statutes at the bar of heaven”).
 
@@ -127,15 +125,13 @@ son and a degenerate. In reality, Solon had a high opinion of the family, and pr
 
 [^^14_8]: Hdt. 7.141 .
 
-[^^14_9]: They have not been mentioned before. Spengel would therefore omitThey have not been mentioned before. Spengel would therefore omit
-εἴρηται , and remove the commas: “proverbs are, as it were, evidence.”
+[^^14_9]: They have not been mentioned before. Spengel would therefore omit `εἴρηται`, and remove the commas: “proverbs are, as it were, evidence.”
 
-[^^14_10]: From theFrom the Cypria of Stasinus, of the “epic cycle.”
+[^^14_10]: From the Cypria of Stasinus, of the “epic cycle.”
 
-[^^14_11]: Opponent of Demosthenes. Chares was an Athenian commander, both naval and military. Nothing is known of Archibius. Plato isOpponent of
-Demosthenes. Chares was an Athenian commander, both naval and military. Nothing is known of Archibius. Plato is probably the comic poet.
+[^^14_11]: Opponent of Demosthenes. Chares was an Athenian commander, both naval and military. Nothing is known of Archibius. Plato is probably the comic poet.
 
-[^^14_12]: Or, “witnesses wholly unconnected with theOr, “witnesses wholly unconnected with the case.”
+[^^14_12]: Or, “witnesses wholly unconnected with the case.”
 
 [^^14_13]: In Attic legal procedure, the challenge (In Attic legal procedure, the challenge ( πρόκλησις ) to take an oath on the question at issue
 was one method of deciding it. One party offered the other something to swear by ( δίδωσι ὅρκον ), this being the real meaning of ὅρκος , and the
@@ -146,8 +142,7 @@ perjure themselves, if they are likely to benefit by doing so; (2) if your adver
 be acquitted, whereas, if he is not on his oath, he will probably be condemned; (3) there is less risk in leaving the decision to the dicasts, who
 can be trusted.
 
-[^^14_15]: Born atBorn at Colophon in Asia Minor , he migrated to Elea in Italy , where he founded the Eleatic school of philosophy.
+[^^14_15]: Born at Colophon in Asia Minor , he migrated to Elea in Italy , where he founded the Eleatic school of philosophy.
 
-[^^14_16]: The defence in such cases is: (1) that theThe defence in such cases is: (1) that the previous oath was taken as a result of fraud or
-compulsion; (2) that you did not mean what you said. 
+[^^14_16]: The defence in such cases is: (1) that the previous oath was taken as a result of fraud or compulsion; (2) that you did not mean what you said. 
 

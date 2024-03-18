@@ -17,10 +17,10 @@ poor, of the unfortunate, and of the weak, are obvious from their opposites.
 
 [^^16_1]: ἐν ἐπιμελείᾳ : “because they are administrators” (Jebb).
 
-[^^16_2]: The three divisions are noble birth, wealth, and power. TheThe three divisions are noble birth, wealth, and power. The meaning is that the
+[^^16_2]: The three divisions are noble birth, wealth, and power. The meaning is that the
 highest kinds of good fortune tend or converge to these (i.e., to noble birth, wealth, and power). κατὰ τὰ μόρια might also mean “in part.” Hobbes,
 in his Brief of the Art of Rhetorick , paraphrases: “the manners of men that prosper, are compounded of the manners of the nobility, the rich, and
 those that are in power, for to some of these all prosperity appertains.”
 
-[^^16_3]: Book 2.12-14, 15-17.Book 2.12-14, 15-17. 
+[^^16_3]: Book 2.12-14, 15-17. 
 

@@ -186,84 +186,79 @@ they mean as soon as they are delivered.
 
 {pagebreak}
 
-[^^22_1]: Assuming that self-control is good, then if the opposite of good (that is, bad) can beAssuming that self-control is good, then if the
+[^^22_1]: Assuming that self-control is good, then if the
 opposite of good (that is, bad) can be predicated of lack of self-control, this proves the truth of the first proposition; otherwise, it may be
 refuted.
 
-[^^22_2]: Cf. 1.13.2 note.Cf. 1.13.2 note.
+[^^22_2]: Cf. 1.13.2 note.
 
-[^^22_3]: Authorship unknown.Authorship unknown.
+[^^22_3]: Authorship unknown.
 
-[^^22_4]: Euripides,Euripides, Thyestes (Frag. 396, T.G.F. ).
+[^^22_4]: Euripides, Thyestes (Frag. 396, T.G.F. ).
 
-[^^22_5]: The argument is that if there was no disgrace in selling the right of farmingThe argument is that if there was no disgrace in selling the
+[^^22_5]: The argument is that if there was no disgrace in selling the
 right of farming the taxes, there could be none in purchasing this right.
 
-[^^22_6]: Pupil of Plato and Isocrates, great friend of Aristotle, the author of fifty tragedies and also of anPupil of Plato and Isocrates, great
+[^^22_6]: Pupil of Plato and Isocrates, great
 friend of Aristotle, the author of fifty tragedies and also of an “Art” of Rhetoric. Alcmaeon murdered his mother Eriphyle. Alphesiboea, his wife,
 says to him, Was not your mother hated? To this he replied, Yes, but there is a distinction; they said she deserved to die, but not at my hands.
 
-[^^22_7]: Nothing is known of this trial.Nothing is known of this trial.
+[^^22_7]: Nothing is known of this trial.
 
-[^^22_8]: The argument is that since men beat their fathers less commonly than they do their neighbors, ifThe argument is that since men beat their
+[^^22_8]: The argument is that since men beat their
 fathers less commonly than they do their neighbors, if they beat their fathers they will also beat their neighbors, and the Paris ms. in a longer
 form of this argument has an explanatory addition to this effect, inserting after ὑπάρχει the words τοὺς γὰρ πατέρας ἧττον τύπτουσιν ἢ τοὺς
 πλησίον . In a similar passage in Aristot. Top. 2.10 εἰκός (or δοκοῦν ) is inserted after μᾶλλον and ἧττον . Welldon suggests that here also the
 reading should be τὸ ἧττον εἰκός and τὸ μᾶλλον εἰκός (Grote, Aristotle , p. 294).
 
-[^^22_9]: From theFrom the Meleager of Antiphon ( T.G.F. p. 885).
+[^^22_9]: From the Meleager of Antiphon ( T.G.F. p. 885).
 
-[^^22_10]: In carrying off Helen.In carrying off Helen.
+[^^22_10]:In carrying off Helen.
 
-[^^22_11]: TheThe Paris ms. has θανατοῦνται , “are put to death.”
+[^^22_11]: The Paris ms. has θανατοῦνται , “are put to death.”
 
-[^^22_12]: Fragment of a speech of Lysias. It was proposed to put up a statue to theFragment of a speech of Lysias. It was proposed to put up a
+[^^22_12]: Fragment of a speech of Lysias. It was proposed to put up a
 statue to the famous Athenian general Iphicrates in honor of his defeat of the Spartans （ 393 B.C.). This was later opposed by Harmodius, probably a
 descendant of the tyrannicide. The speech, which is considered spurious, was called ἡ περὶ τῆς εἰκόνος .
 
 [^^22_13]: Or, “the ways of doing this are various” （Jebb).Or, “the ways of doing this are various” （Jebb).
 
-[^^22_14]: The illustration is lost or perhaps purposely omitted as well known. TheThe illustration is lost or perhaps purposely omitted as well
-known. The Teucer was a tragedy of Sophocles.
+[^^22_14]: The illustration is lost or perhaps purposely omitted as well known. The Teucer was a tragedy of Sophocles.
 
-[^^22_15]: It would be absurd to use such an argumentIt would be absurd to use such an argument against the accusation of a “just man” like
+[^^22_15]: It would be absurd to use such an argument against the accusation of a “just man” like
 Aristides, and to pretend that he is more likely to have committed the crime. It must only be used when the opponent's character is suspect, and
 lends itself to such a retort.
 
-[^^22_16]: The reference is obviously toThe reference is obviously to Socrates , who claimed that a daimonion （a certain divine principle that acted
+[^^22_16]: The reference is obviously to Socrates , who claimed that a daimonion （a certain divine principle that acted
 as his internal monitor) checked his action in many cases. When accused of not believing in the gods, he was able to prove, by his definition of the
 daimonion , that he was no atheist. Similarly, Iphicrates, by his definition of γενναῖος and συγγενής could refute the allegation that he was
 ignoble and show that his deeds were more akin to those of Harmodius and Aristogiton than to those of his opponents. Paris could say that he was not
 intemperate, because he was satisfied with Helen alone. Lastly, Socrates refused an invitation to visit Archelaus, king of Macedonia , because he
 would be unable to return the benefits received, which would imply his being put to shame, and make the invitation a kind of insult.
 
-[^^22_17]: Of Polycrates.Of Polycrates.
+[^^22_17]: Of Polycrates.
 
-[^^22_18]: “Just as it is to requite them with evil”“Just as it is to requite them with evil” （Jebb).
+[^^22_18]: “Just as it is to requite them with evil” （Jebb).
 
-[^^22_19]: SupplyingSupplying [λελέκται] περὶ τοῦ ὀρθῶς [χρῆσθαι αὐτοῖς] . Others render “in reference to the use of the word ὀρθῶς ” （but ὀρθῶς
+[^^22_19]: Supplying [λελέκται] περὶ τοῦ ὀρθῶς [χρῆσθαι αὐτοῖς] . Others render “in reference to the use of the word ὀρθῶς ” （but ὀρθῶς
 does not occur in the passage in Aristot. Top. 1.15 ). A suggested reading is περὶ τούτου ὀρθῶς εἴρηται .
 
-[^^22_20]: Mantias had one legitimate son Mantitheus and two illegitimate by a certain Plangon. Mantias at first refused toMantias had one
-legitimate son Mantitheus and two illegitimate by a certain Plangon. Mantias at first refused to acknowledge the latter as his sons, until the
+[^^22_20]: Mantias had one legitimate son Mantitheus and two illegitimate by a certain Plangon. Mantias at first refused to acknowledge the latter as his sons, until the
 mother declared they were.
 
-[^^22_21]: The name of the mother; or simply, “the woman ofThe name of the mother; or simply, “the woman of Dodona ,” like “the woman of
-Peparethus.”
+[^^22_21]: The name of the mother; or simply, “the woman of Dodona ,” like “the woman of Peparethus.”
 
-[^^22_22]: Others readOthers read πολίτην , “although he was not their fellow-citizen” （but Chios was one of the claimants to his birthplace).
+[^^22_22]: Others read πολίτην , “although he was not their fellow-citizen” （but Chios was one of the claimants to his birthplace).
 
-[^^22_23]: Something has fallen out, what follows being intended to prove that the best rulers for a state are theSomething has fallen out, what
-follows being intended to prove that the best rulers for a state are the philosophers.
+[^^22_23]: Something has fallen out, what follows being intended to prove that the best rulers for a state are the philosophers.
 
-[^^22_24]: Epaminondas and Pelopidas. One would rather expect, “as soon asEpaminondas and Pelopidas. One would rather expect, “as soon as
-philosophers had the conduct of affairs.”
+[^^22_24]: Epaminondas and Pelopidas. One would rather expect, “as soon as philosophers had the conduct of affairs.”
 
-[^^22_25]: Athenian ambassador toAthenian ambassador to Sparta （ 371 B.C.), whose aggressive policy he attacked. His argument is that, if the
+[^^22_25]: Athenian ambassador to Sparta （ 371 B.C.), whose aggressive policy he attacked. His argument is that, if the
 Eumenides could agree without any loss of dignity to stand their trial before the Areopagus, as described in Aeschylus, surely Mixidemides could do
 the same. Nothing is known of Mixidemides, but it is clear that he refused to submit his case to it, when charged with some offense.
 
-[^^22_26]: The story is told of Agesipolis （which others readThe story is told of Agesipolis （which others read here) in Xen. Hell. 4.7.2 . The
+[^^22_26]: The story is told of Agesipolis （which others read here) in Xen. Hell. 4.7.2 . The
 Argives, when a Lacedaemonian army threatened to invade their territory, were in the habit of alleging that it was festival time, when there should
 be a holy truce. This obviously left the door open to fraud, so Agesipolis （one of the Spartan kings) consulted the oracle of Zeus at Olympia to ask
 whether he was to respect such a truce. The reply of the oracle was that he might decline a truce fraudulently demanded. To confirm this, Agesipolis
@@ -271,15 +266,14 @@ put the same question to Apollo: “Is your opinion as to the truce the same as 
 thereupon invaded Argos . The point is that really Apollo had little choice, since it would have been disgraceful for the son to contradict the
 father.
 
-[^^22_27]: After his defeat atAfter his defeat at Aegospotami （ 405 B.C.) the Athenian general Conon , fearing for his life, took refuge with
+[^^22_27]: After his defeat at Aegospotami （ 405 B.C.) the Athenian general Conon , fearing for his life, took refuge with
 Evagoras, king of Cyprus—a proof, according to Aristotle, of the goodness of the latter.
 
-[^^22_28]: If the genus can be affirmed of any subject, then one or other of the species, which make up theIf the genus can be affirmed of any
-subject, then one or other of the species, which make up the genus, must also be predicable of it. If the proposition to be maintained is, the soul
+[^^22_28]: If the genus can be affirmed of any subject, then one or other of the species, which make up the genus, must also be predicable of it. If the proposition to be maintained is, the soul
 is moved, it is necessary to examine whether any of the different kinds of motion （increase, decrease, decay, change of place, generation,
 alteration) can be predicated of the soul. If not, the generic predicate is not applicable, and the proposition is refuted.
 
-[^^22_29]: The bad with the good. The exact meaning ofThe bad with the good. The exact meaning of βλαίσωσις has not been satisfactorily explained.
+[^^22_29]: The bad with the good. The exact meaning of βλαίσωσις has not been satisfactorily explained.
 In the definition given of the retortion of a dilemma, the two opposite things would be speaking truth or untruth; the two opposite consequences,
 pleasing men and pleasing God.
 
@@ -288,15 +282,13 @@ wealth, whereas really he wishes the opposite. “If then his words are in accor
 statements; if they are in accordance with the latter, he must be confronted with his secret wishes. In either case he must fall into paradox, and
 contradict either his publicly expressed or secret opinions.” （ Aristot. Sophist. Elenchi 2.12 , Poste's translation).
 
-[^^22_31]: This “law” （already mentioned inThis “law” （already mentioned in 23.11) is said to have been an oration on the legal position of
-mercenaries.
+[^^22_31]: This “law” （already mentioned in 23.11) is said to have been an oration on the legal position of mercenaries.
 
 [^^22_32]: Cause and effect.Cause and effect.
 
 [^^22_33]: Isoc. 15.173 .
 
-[^^22_34]: The peace concluded between the Greeks （although the Lacedaemonians heldThe peace concluded between the Greeks （although the
-Lacedaemonians held aloof) and Alexander the Great after the death of Philip of Macedon （ 336 B.C.).
+[^^22_34]: The peace concluded between the Greeks （although the Lacedaemonians held aloof) and Alexander the Great after the death of Philip of Macedon （ 336 B.C.).
 
 [^^22_35]: Lys. 34.11 .
 
@@ -305,45 +297,42 @@ preferred to leave the city rather than fight. This is Cope's explanation, but t
 obscure. A more suitable interpretation would be: “At one time they preferred to return from exile at the price of fighting; at another, not to
 fight at the price of being exiled a second time （St. Hilaire),” but one does not see how this can be got out of the Greek.
 
-[^^22_37]: The author is unknown.The author is unknown.
+[^^22_37]: The author is unknown.
 
-[^^22_38]: Frag. 2 （Frag. 2 （ T.G.F. p. 792).
+[^^22_38]: Frag. 2 （ T.G.F. p. 792).
 
 [^^22_39]: Hom. Il. 10.218 ; cp. T.G.F. p. 801.
 
-[^^22_40]: By pointing out what is likely to deter a man from committingBy pointing out what is likely to deter a man from committing a crime, and
+[^^22_40]: By pointing out what is likely to deter a man from committing a crime, and
 vice versa .
 
-[^^22_41]: The argument is: we accept either that which really is, or that which is probable; if then a statement is made which isThe argument is:
-we accept either that which really is, or that which is probable; if then a statement is made which is incredible and improbable, we assume that it
+[^^22_41]: The argument is:we accept either that which really is, or that which is probable; if then a statement is made which is incredible and improbable, we assume that it
 would not have been made, unless it was true.
 
-[^^22_42]: Athenian demagogue and opponent of Alcibiades, for whose banishment he wasAthenian demagogue and opponent of Alcibiades, for whose
-banishment he was chiefly responsible. When the Four Hundred were set up, he was put to death. Pitthus was an Athenian deme or parish.
+[^^22_42]: Athenian demagogue and opponent of Alcibiades, for whose banishment he was chiefly responsible. When the Four Hundred were set up, he was put to death. Pitthus was an Athenian deme or parish.
 
-[^^22_43]: UnderstandingUnderstanding διαβεβλῆσθαι . Others read μὴ （for ἢ ) δοκοῦσι , “when there seems no reason to suspect them.”
+[^^22_43]: Understanding διαβεβλῆσθαι . Others read μὴ （for ἢ ) δοκοῦσι , “when there seems no reason to suspect them.”
 
-[^^22_44]: The names of traitors were inscribed on a brazen pillar inThe names of traitors were inscribed on a brazen pillar in the Acropolis.
-Leodamas supported the oligarchic, Thrasybulus the democratic party. In answer to the charge that he had had his name removed from the pillar when
+[^^22_44]: The names of traitors were inscribed on a brazen pillar in the Acropolis. Leodamas supported the oligarchic, Thrasybulus the 
+democratic party. In answer to the charge that he had had his name removed from the pillar when
 his party came into power, Leodamas replied that, if he had been originally posted as an enemy of the people and a hater of democracy, he would have
 preferred to keep the record, as likely to increase the confidence of the Thirty in him, than to have it erased, even though it branded him as a
 traitor.
 
-[^^22_45]: If a person has not taken the better course, when he had theIf a person has not taken the better course, when he had the chance of doing
+[^^22_45]: If a person has not taken the better course, when he had the chance of doing
 so, he cannot be guilty.
 
-[^^22_46]: Leucothea was the name of the deified Ino. She was the daughter of Cadmus and the wife of Athamas king ofLeucothea was the name of the
+[^^22_46]: Leucothea was the name of the
 deified Ino. She was the daughter of Cadmus and the wife of Athamas king of Thebes . The latter went mad and, in order to escape from him, Ino threw
 herself into the sea with her infant son Melicertes. Both became marine deities.
 
 [^^22_47]: Tragic poet, contemporary of Aristophanes （Tragic poet, contemporary of Aristophanes （ T.G.F. p. 798).
 
-[^^22_48]: An early edition, afterwards enlarged. It must have contained something moreAn early edition, afterwards enlarged. It must have contained
-something more than the topic of “errors” to be of any use.
+[^^22_48]: An early edition, afterwards enlarged. It must have contained something more than the topic of “errors” to be of any use.
 
-[^^22_49]: Sophocles,Sophocles, Tyro , Frag. 597 （ T.G.F. ). The reference is to Sidero （ σίδηρος , iron), the cruel stepmother of Tyro.
+[^^22_49]: Sophocles, Tyro , Frag. 597 （ T.G.F. ). The reference is to Sidero （ σίδηρος , iron), the cruel stepmother of Tyro.
 
-[^^22_50]: Thompson's rendering （Introd. toThompson's rendering （Introd. to his edition of Plato's Gorgias p. 5). “Colt” refers to Polus's
+[^^22_50]: Thompson's rendering （Introd. to his edition of Plato's Gorgias p. 5). “Colt” refers to Polus's
 skittishness and frisking from one subject to another.
 
 [^^22_51]: Eur. Tro. 990 .

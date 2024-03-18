@@ -19,15 +19,13 @@ for it is impossible to be afraid and angry at the same time. And against those 
 degree, for they do not seem to have acted from a desire to slight. For no one slights another when angry, since slight is free from pain, but anger
 is accompanied by it. And men are not angry with those who usually show respect for them. [^^2_3]
 
-It is also evident that those are mild whose condition is contrary to that which
-excites anger, as when laughing, in sport, at a feast, in prosperity, inIt is also evident that those are mild whose condition is contrary to that
-which excites anger, as when laughing, in sport, at a feast, in prosperity, in success, in abundance, [^^2_4] and, in general, in freedom from pain,
+It is also evident that those are mild whose condition is contrary to that which excites anger, as when laughing, in sport, at a feast, in prosperity, in success, in abundance, [^^2_4] and, in general, in freedom from pain,
 in pleasure which does not imply insult, or in virtuous hope. Further, those whose anger is of long standing and not in its full flush, for time
 appeases anger. Again, vengeance previously taken upon one person appeases anger against another, even though it be greater. Wherefore
 Philocrates, [^^2_5] when someone asked him why he did not justify himself when the people were angry with him, made the judicious reply, “Not yet.”
 “When then?” “When I see someone accused of the same offence”; for men grow mild when they have exhausted their anger upon another, as happened in
 the case of Ergophilus. [^^2_6] For although the Athenians were more indignant with him than with Callisthenes, they acquitted him, because they had
-condemned CalIicrates to death on the previous day. Men also grow mild towards those whom they pity [^^2_7] ; and if an offender has suffered
+condemned Callicrates to death on the previous day. Men also grow mild towards those whom they pity [^^2_7] ; and if an offender has suffered
 greater evil than those who are angry would have inflicted, for they have an idea that they have as it were obtained reparation. And if they think
 that they themselves are wrong and deserve what they suffer, for anger is not aroused against what is just; they no longer think that they are being
 treated otherwise than they should be, which, as we have said, is the essence of anger. Wherefore we should inflict a preliminary verbal
@@ -52,29 +50,29 @@ deserving of respect, or as having rendered them great services, or acted involu
 [^^2_4]: πλήρωσις : lit. “filling up.” The reference may be to the “fulfillment” of one's desires, or to “repletion” in the matter of food (L. and
 S.), which seems less likely; “in fulness of content” (Jebb).
 
-[^^2_5]: Opponent of Demosthenes, and one of the pro-Macedonian party. Impeached for his share inOpponent of Demosthenes, and one of the
+[^^2_5]: Opponent of Demosthenes, and one of the
 pro-Macedonian party. Impeached for his share in the disastrous “Peace of Philocrates,” he went into exile and was condemned to death during his
 absence.
 
-[^^2_6]: Ergophilus failed in an attack on Cotys, king ofErgophilus failed in an attack on Cotys, king of Thrace , while Callisthenes concluded a
+[^^2_6]: Ergophilus failed in an attack on Cotys, king of Thrace , while Callisthenes concluded a
 premature peace with Perdiccas, king of Macedonia .
 
-[^^2_7]: Another reading isAnother reading is ἐὰν ἕλωσι , “if they have convicted him.” This is adopted by Roemer, who refers to Plat. Rep. 558a ,
+[^^2_7]: Another reading is ἐὰν ἕλωσι , “if they have convicted him.” This is adopted by Roemer, who refers to Plat. Rep. 558a ,
 where, in speaking of the freedom allowed to all who live under a democracy, it is remarked that, even if a man is convicted by a court of justice,
 he takes no heed of the sentence, which is very often not enforced.
 
-[^^2_8]: Therefore, if you think that a man willTherefore, if you think that a man will never learn who took vengeance on him, you will be less
+[^^2_8]: Therefore, if you think that a man will never learn who took vengeance on him, you will be less
 cruel; for anger is personal, and so Odysseus, because he was angry, inflicted a savage punishment, and wished Polyphemus to know it.
 
 [^^2_9]: Hom. Od. 9.504 .
 
-[^^2_10]: Or, “as if Odysseus would not have consideredOr, “as if Odysseus would not have considered himself avenged, had P. remained
+[^^2_10]: Or, “as if Odysseus would not have considered himself avenged, had P. remained
 ignorant . . .”
 
-[^^2_11]: Or, “with any who can no longer feel theirOr, “with any who can no longer feel their anger.” Cope translates: “with all the rest (besides
+[^^2_11]: Or, “with any who can no longer feel their anger.” Cope translates: “with all the rest (besides
 those actually within reach) who are out of sight.”
 
-[^^2_12]: To make the offenderTo make the offender feel pain as part of the punishment.
+[^^2_12]: To make the offender feel pain as part of the punishment.
 
 [^^2_13]: Hom. Il. 24.54 . 
 

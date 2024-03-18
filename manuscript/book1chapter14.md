@@ -28,15 +28,15 @@ suffice for the treatment of the greater or less degree of wrongdoing.
 [^^13_1]: 1.7.13. Callistratus and Melanopus were rival orators. Nothing is known of this particular1.7.13. Callistratus and Melanopus were rival
 orators. Nothing is known of this particular charge.
 
-[^^13_2]: The magistrates who superintended the building and repairingThe magistrates who superintended the building and repairing operations.
+[^^13_2]: The magistrates who superintended the building and repairing operations.
 
-[^^13_3]: UnderstandingUnderstanding ἰᾶσθαι . Or “to punish adequately,” supplying οὗ μὴ ἴση τιμωρία .
+[^^13_3]: Understanding `ἰᾶσθαι` . Or “to punish adequately,” supplying `οὗ μὴ ἴση τιμωρία` .
 
-[^^13_4]: An orator, not the tragic poet.An orator, not the tragic poet.
+[^^13_4]: An orator, not the tragic poet.
 
-[^^13_5]: “Or has been seldom paralleled”“Or has been seldom paralleled” (Cope, but cp. 1.9.38).
+[^^13_5]: “Or has been seldom paralleled” (Cope, but cp. 1.9.38).
 
-[^^13_6]: And therefore the violation of them is more discreditable.And therefore the violation of them is more discreditable.
+[^^13_6]: And therefore the violation of them is more discreditable.
 
-[^^13_7]: When he thinks of the punishment they may entail.When he thinks of the punishment they may entail. 
+[^^13_7]: When he thinks of the punishment they may entail. 
 

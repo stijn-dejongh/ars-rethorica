@@ -25,14 +25,12 @@ the various emotions in men, from which the methods of persuasion that concern t
 
 {pagebreak}
 
-[^^10_1]: Something like “although they are within their grasp” is needed toSomething like “although they are within their grasp” is needed to
-complete the sense.
+[^^10_1]: Something like “although they are within their grasp” is needed to complete the sense.
 
-[^^10_2]: Spending one's money benefits one's neighbor to a certain extent, and beauty is alwaysSpending one's money benefits one's neighbor to a
-certain extent, and beauty is always pleasant to look upon. One does not admire anyone because he is in good health, so much as because he is
+[^^10_2]: Spending one's money benefits one's neighbor to a certain extent, and beauty is always pleasant to look upon. One does not admire anyone because he is in good health, so much as because he is
 handsome.
 
-[^^10_3]: “Who have many acquaintances or“Who have many acquaintances or friends” (Jebb).
+[^^10_3]: “Who have many acquaintances or friends” (Jebb).
 
 [^^10_4]: λογογράφοι means either the oldest Greek historians (or rather “chroniclers”), or the writers of speeches for use in the law courts, or of
 panegyrics.

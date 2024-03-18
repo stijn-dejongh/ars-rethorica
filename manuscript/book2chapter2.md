@@ -80,7 +80,7 @@ men are angry.
 
 {pagebreak}
 
-[^^1_1]: Gomperz translatesGomperz translates φαινομένης “real or apparent”; Jebb omits φαινομένης and translates φαινομένην “apparent”; Cope
+[^^1_1]: Gomperz translates φαινομένης “real or apparent”; Jebb omits φαινομένης and translates φαινομένην “apparent”; Cope
 confines both to the meaning “manifest.”
 
 [^^1_2]: Hom. Il. 18.109 (cp. 1.11.9).
@@ -88,11 +88,11 @@ confines both to the meaning “manifest.”
 [^^1_3]: The thought of revenge in the future, as distinguished from dwelling upon it in the present.The thought of revenge in the future, as
 distinguished from dwelling upon it in the present.
 
-[^^1_4]: Or, “those in which this tendency does not exist, or isOr, “those in which this tendency does not exist, or is trifling.”
+[^^1_4]: Or, “those in which this tendency does not exist, or is trifling.”
 
-[^^1_5]: Or, “how to make him his friend,”Or, “how to make him his friend,” φίλος being for φίλον by attraction.
+[^^1_5]: Or, “how to make him his friend,” φίλος being for φίλον by attraction.
 
-[^^1_6]: In Attic lawIn Attic law ὕβρις (insulting, degrading treatment) was a more serious offence than αἰκία (bodily ill-treatment). It was the
+[^^1_6]: In Attic law ὕβρις (insulting, degrading treatment) was a more serious offence than αἰκία (bodily ill-treatment). It was the
 subject of a State criminal prosecution ( γραφή ), αἰκία of a private action ( δίκη ) for damages. The penalty was assessed in court, and might even
 be death. It had to be proved that the defendant struck the first blow (2.24.9). One of the best known instances is the action brought by
 Demosthenes against Midias for a personal outrage on himself, when choregus of his tribe and responsible for the equipment of a chorus for musical
@@ -114,7 +114,7 @@ competitions at public festivals.
 
 [^^1_14]: εὐκίνητοι refers grammatically to διαθέσεις and ἡλικίαι .
 
-[^^1_15]: Plexippus was the uncle of Meleager. The allusion is obscure. It may referPlexippus was the uncle of Meleager. The allusion is obscure. It
+[^^1_15]: Plexippus was the uncle of Meleager. The allusion is obscure. It
 may refer to Meleager giving the skin of the Calydonian boar to Atalanta, which his uncle wanted. One of Antiphon's tragedies was named Meleager (
 T.G.F. p.792).
 
@@ -124,8 +124,8 @@ whom) one respects, do not escape notice.”
 [^^1_17]: The real friend, therefore, would feel as much pain as the other whose faults are exposed.The real friend, therefore, would feel as much
 pain as the other whose faults are exposed.
 
-[^^1_18]: Cope translates “rulers and governors”; but canCope translates “rulers and governors”; but can ἄρχεσθαι be used in a middle sense?
+[^^1_18]: Cope translates “rulers and governors”; but can ἄρχεσθαι be used in a middle sense?
 
-[^^1_19]: To avoid the apparent tautology ( 2.17), RoemerTo avoid the apparent tautology ( 2.17), Roemer ( Rhein . Mus. 39 p. 503) boldly
+[^^1_19]: To avoid the apparent tautology ( 2.17), Roemer ( Rhein . Mus. 39 p. 503) boldly
 conjectures χαίρειν : “not to return another's greeting.” 
 

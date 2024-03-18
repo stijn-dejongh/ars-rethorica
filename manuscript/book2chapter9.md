@@ -52,13 +52,12 @@ that it should be refused them, then pity will be impossible.
 
 [^^8_1]: νεμεσᾶν : “the nobler brother of envy” (Nietzsche).
 
-[^^8_2]: There is justice both in the punishment of theThere is justice both in the punishment of the parricide and in the deserved good fortune of
+[^^8_2]: There is justice both in the punishment of the parricide and in the deserved good fortune of
 others. The conclusion must refer to the latter; if his like is fortunate, he hopes he may be.
 
-[^^8_3]: Because it is a man's own fault, and pity isBecause it is a man's own fault, and pity is only felt for what is undeserved.
+[^^8_3]: Because it is a man's own fault, and pity is only felt for what is undeserved.
 
-[^^8_4]: The first part of the sentence is clear: men are indignant when what good men deserve isThe first part of the sentence is clear: men are
-indignant when what good men deserve is possessed by those who are not good. The literal translation o the text as it stands is: “Men are
+[^^8_4]: The first part of the sentence is clear: men are indignant when what good men deserve is possessed by those who are not good. The literal translation o the text as it stands is: “Men are
 indignant . . . at all the advantages of which good men and those who possess natural advantages are worthy”; but this cannot be right, since there
 is nothing in natural advantages to arouse moral indignation, there is no question of their being deserved or undeserved. Something may have fallen
 out like “but they will not be indignant with those who possess natural advantages.” Roemer ( Rhein . Mus. 39 p. 504) suggests οὐδ᾽ εἰ τὰ φύσει
@@ -70,8 +69,8 @@ The idea is that where anything has been so long in a person's possession, it ha
 [^^8_6]: Hom. Il. 11.542 . Only the first verse is given in the received text of Homer; the second is not found in any of the mss. The reference is
 to Cebriones, a son of Priam slain by Patroclus.
 
-[^^8_7]: It has been suggested to insertIt has been suggested to insert μὴ before τυγχάνωσι : “if, although virtuous and worthy, they do not happen
+[^^8_7]: It has been suggested to insert μὴ before τυγχάνωσι : “if, although virtuous and worthy, they do not happen
 to possess such advantages.”
 
-[^^8_8]: Or, “of which others happen to be unworthy.”Or, “of which others happen to be unworthy.” 
+[^^8_8]: Or, “of which others happen to be unworthy.” 
 

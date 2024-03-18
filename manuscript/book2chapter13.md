@@ -31,7 +31,7 @@ appear to be of such and such a character.
 
 {pagebreak}
 
-[^^12_1]: One of the Seven Wise Men ofOne of the Seven Wise Men of Greece .
+[^^12_1]: One of the Seven Wise Men of Greece .
 
 [^^12_2]: Or, “speeches which resemble (or reflect) it” (their character).Or, “speeches which resemble (or reflect) it” (their character). 
 

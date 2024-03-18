@@ -38,9 +38,7 @@ emulated, but not envied,—these we either like or wish to be friends with them
 provided greater evil does not result for ourselves. And those who show equal fondness for friends, whether absent or present; wherefore all men
 like those who show such feeling for the dead.
 
-In a word, men like those who are strongly attached to their friends and do not
-leave them in the lurch; for among good men they chiefly like those who are goodIn a word, men like those who are strongly attached to their friends
-and do not leave them in the lurch; for among good men they chiefly like those who are good friends. And those who do not dissemble with them; such
+In a word, men like those who are strongly attached to their friends and do not leave them in the lurch; for among good men they chiefly like those who are good friends. And those who do not dissemble with them; such
 are those who do not fear to mention even their faults. (For, as we have said, before friends we do not blush for faults merely condemned by public
 opinion; if then he who blushes for such faults is not a friend, he who does not is likely to be one). [^^3_6] And men like those who are not
 formidable, and in whom they have confidence; for no one likes one whom he fears. Companionship, intimacy, kinship, and similar relations are
@@ -64,7 +62,7 @@ persons that men fear and in what frame of mind, will be evident from the follow
 [^^3_1]: φιλεῖν may be translated “to love” or “to like”; φιλία by “love,” “liking,” or “friendship”; for φίλος “friend” alone is suitable. For the
 two meanings cp. the use of aimer in French, and lieben in German.
 
-[^^3_2]: Aristotle's opinion of husbandry, in which tillage and planting, keeping of bees, fish, and fowl wereAristotle's opinion of husbandry, in
+[^^3_2]: Aristotle's opinion of husbandry, in
 which tillage and planting, keeping of bees, fish, and fowl were included, was not nearly so favorable as that of Xenophon in his Oeconomicus . In
 two lists of the elements of a State given in the Politics , it comes first at the head of the lower occupations. In its favor it is said that it
 forms the best m aterial of a rural democracy, furnishes good sailors, a healthy body of men, not money-grabbers like merchants and tradesmen, and
@@ -73,18 +71,17 @@ duties, and should be excluded from holding office. He further says that husband
 hot-tempered, for they will work better and are less likely to revolt); or, as the next best alternative, barbarians or serfs. The favorable view
 taken by Aristotle here and in the Oeconomics (probably not his) does not agree with that put forward in the Politics .
 
-[^^3_3]: Spengel readsSpengel reads ἢ ἐν οἷς θαυμάζουσιν αὐτοί and brackets [ ἢ ἐν τοῖς θαυμαζομένοις ὑφ᾽ αὑτῶν] . ἅπασιν, βελτίστοις , and οἷς will
+[^^3_3]: Spengel reads ἢ ἐν οἷς θαυμάζουσιν αὐτοί and brackets [ ἢ ἐν τοῖς θαυμαζομένοις ὑφ᾽ αὑτῶν] . ἅπασιν, βελτίστοις , and οἷς will
 then all be neuter.
 
 [^^3_4]: Two of a trade never agree (Two of a trade never agree ( Hes. WD 25 ).
 
-[^^3_5]: Those with whom we are ambitious of enteringThose with whom we are ambitious of entering into competition “in the race for distinction” (
+[^^3_5]: Those with whom we are ambitious of entering into competition “in the race for distinction” (
 Cope). There is no unfriendliness, whereas envy produces it.
 
-[^^3_6]: A parenthetical remark. Aristotle explains that he is notA parenthetical remark. Aristotle explains that he is not thinking of merely
+[^^3_6]: A parenthetical remark. Aristotle explains that he is not thinking of merely
 conventional faults; if, then, one who is ashamed of these is no friend, then one who is not . . .
 
-[^^3_7]: He wishes to see and know the result of the measures taken against those with whom he is angry. Or, it may mean that he wishes the object
-of hisHe wishes to see and know the result of the measures taken against those with whom he is angry. Or, it may mean that he wishes the object of
+[^^3_7]: He wishes to see and know the result of the measures taken against those with whom he is angry. Or, it may mean that he wishes the object of
 his anger to feel his wrath, and to know by whom, and for what, he is punished. 
 

@@ -33,20 +33,20 @@ insolence. Such then is the character of the young.
 
 {pagebreak}
 
-[^^11_1]: TheThe πίστις ἠθική is resumed from 2.1.8. As the πάθη and ἕξεις have been discussed already, only the ages and their character remain.
+[^^11_1]: The πίστις ἠθική is resumed from 2.1.8. As the πάθη and ἕξεις have been discussed already, only the ages and their character remain.
 
-[^^11_2]: One of the Seven Wise Men ofOne of the Seven Wise Men of Greece .
+[^^11_2]: One of the Seven Wise Men of Greece .
 
-[^^11_3]: Or, “they do not look at things in a bad light, but in aOr, “they do not look at things in a bad light, but in a good,” i.e., they are not
+[^^11_3]: Or, “they do not look at things in a bad light, but in a good,” i.e., they are not
 always ready to suspect.
 
-[^^11_4]: Social convention is the only law that they know, and theySocial convention is the only law that they know, and they are ashamed if they
+[^^11_4]: Social convention is the only law that they know, and they are ashamed if they
 violate it, because as yet they have no idea of higher laws which may command them to do so.
 
 [^^11_5]: ἦθος “in the widest sense, includes all that is habitual and characteristic; in a limited sense, it expresses the habitual temper or
 disposition” (Twining).
 
-[^^11_6]: One of the Seven Wise Men ofOne of the Seven Wise Men of Greece . The maxim was Μηδὲν ἄγαν , Ne quid nimis , Never go to extremes.
+[^^11_6]: One of the Seven Wise Men of Greece . The maxim was Μηδὲν ἄγαν , Ne quid nimis , Never go to extremes.
 
-[^^11_7]: Or, “better than they reallyOr, “better than they really are.” 
+[^^11_7]: Or, “better than they really are.” 
 

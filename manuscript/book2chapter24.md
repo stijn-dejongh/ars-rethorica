@@ -79,11 +79,11 @@ Rhetoric and Sophistic. So much for real or apparent enthymemes.
 
 [^^23_1]: Isoc. 9.65-69 .
 
-[^^23_2]: Or equivocation, in which a single term has a doubleOr equivocation, in which a single term has a double meaning.
+[^^23_2]: Or equivocation, in which a single term has a double meaning.
 
-[^^23_3]: DerivingDeriving μυστήρια （ μύειν , to close the lips) from μῦς （mouse).
+[^^23_3]: Deriving μυστήρια （ μύειν , to close the lips) from μῦς （mouse).
 
-[^^23_4]: A fragment from theA fragment from the Parthenia （songs sung by maidens to the accompaniment of the flute). Pan is called “the dog of
+[^^23_4]: A fragment from the Parthenia （songs sung by maidens to the accompaniment of the flute). Pan is called “the dog of
 Cybele,” the great nature-goddess of the Greeks, as being always in attendance on her, being himself a nature-god. The fact that Pindar calls Pan
 “dog” is taken as a glorification of that animal.
 
@@ -93,7 +93,7 @@ others, or （2) sociable.
 
 [^^23_6]: λόγος : （1) speech; （2) account, esteem.
 
-[^^23_7]: Very obscure and no explanation is satisfactory. The parallel passage inVery obscure and no explanation is satisfactory. The parallel
+[^^23_7]: Very obscure and no explanation is satisfactory. The parallel
 passage in Aristot. Sophist. Elenchi 20.6 is: “Do you being in Sicily now know that there are triremes in the Piraeus ?” The ambiguity lies in the
 position of “now,” whether it is to be taken with “in Sicily ” or with “in the Piraeus .” At the moment when a man is in Sicily he cannot know that
 there are at this time triremes in the Piraeus ; but being in Sicily he can certainly know of the ships in the Piraeus , which should be there, but
@@ -101,7 +101,7 @@ are now in Sicily （Kirchmann). St. Hilaire suggests that the two clauses are: 
 Piraeus ? and, Did you when in Sicily , see the triremes which are now in the Piraeus ? The fallacy consists in the two facts （being in the Piraeus
 and the existence of triremes in Sicily ), true separately, being untrue combined.
 
-[^^23_8]: Thrasybulus deposed the thirty individuals and put down theThrasybulus deposed the thirty individuals and put down the single tyranny
+[^^23_8]: Thrasybulus deposed the thirty individuals and put down the single tyranny
 which they composed; he then claimed a thirtyfold reward, as having put down thirty tyrannies.
 
 [^^23_9]: Frag. 5 （Frag. 5 （ T.G.F. ).
@@ -114,20 +114,17 @@ Similar panegyrics on ridiculous things or animals included pots, counters, salt
 [^^23_11]: Sophocles,Sophocles, The Gathering of the Greeks （ T.G.F. p. 161), a satyric drama. His not being invited was a mere accident of the
 disrespect.
 
-[^^23_12]: Assuming a proposition to be convertible, when it is not; it does not follow, assuming that all the high-minded dwell byAssuming a
-proposition to be convertible, when it is not; it does not follow, assuming that all the high-minded dwell by themselves, that all who dwell by
+[^^23_12]: Assuming a proposition to be convertible, when it is not; it does not follow, assuming that all the high-minded dwell by themselves, that all who dwell by
 themselves are highminded.
 
-[^^23_13]: The poor want to get money; the rich dance and sing to amuse themselves, or to show that they can do as they like. ExilesThe poor want to
-get money; the rich dance and sing to amuse themselves, or to show that they can do as they like. Exiles can certainly live where they like in a
+[^^23_13]: The poor want to get money; the rich dance and sing to amuse themselves, or to show that they can do as they like. Exiles can certainly live where they like in a
 foreign land, but would prefer to live in their own country; the rich, who are not exiles, travel to amuse themselves.
 
-[^^23_14]: The first “is” means “has a real, absoluteThe first “is” means “has a real, absolute existence”; the second “is” merely expresses the
+[^^23_14]: The first “is” means “has a real, absolute existence”; the second “is” merely expresses the
 identity of the terms of the proposition, and is particular; but the sophistical reasoner takes it in the same sense as the first. The same applies
 to the argument about the unknown.
 
-[^^23_15]: This utterance of Protagoras gave particular offense as apparently implying that the weakerThis utterance of Protagoras gave particular
-offense as apparently implying that the weaker cause was really identical with the worse, so that to support it was to support injustice. But,
+[^^23_15]: This utterance of Protagoras gave particular offense as apparently implying that the weaker cause was really identical with the worse, so that to support it was to support injustice. But,
 considering the high moral character ascribed to Protagoras, it seems more probable to take the formula as a statement of the aim of all ancient
 orators—how to overcome stronger arguments by arguments weaker in themselves. 
 

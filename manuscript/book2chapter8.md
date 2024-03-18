@@ -44,7 +44,7 @@ to deserve his fate, and because the suffering is before our eyes.
 
 [^^7_1]: Hdt. 3.14 , where the story is told, not of Amasis, by of his son Psammenitus.
 
-[^^7_2]: Jebb renders: “Again men pity when the danger isJebb renders: “Again men pity when the danger is near themselves,” which may mean when they
+[^^7_2]: Jebb renders: “Again men pity when the danger is near themselves,” which may mean when they
 see something terrible happening to others and likely soon to befall themselves. Vahlen inserts οὐ γὰρ before ἔτι : “for men cease to pity when the
 terrible comes close to themselves.
 

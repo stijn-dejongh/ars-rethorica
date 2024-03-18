@@ -30,22 +30,19 @@ the decision rests.
 
 {pagebreak}
 
-[^^9_1]: If some one else possesses the one thing which they think necessary to complete theirIf some one else possesses the one thing which they
-think necessary to complete their happiness, they are envious of him, because they consider it ought to be theirs.
+[^^9_1]: If some one else possesses the one thing which they think necessary to complete their happiness, they are envious of him, because they consider it ought to be theirs.
 
-[^^9_2]: According to the scholiast, from Aeschylus.According to the scholiast, from Aeschylus.
+[^^9_2]: According to the scholiast, from Aeschylus.
 
-[^^9_3]: Two rocks at the east end of the Straits ofTwo rocks at the east end of the Straits of Gibraltar , supposed to be the limit westwards of
+[^^9_3]: Two rocks at the east end of the Straits of Gibraltar , supposed to be the limit westwards of
 the ancient world.
 
-[^^9_4]: That is, no one will attempt to compete with them in their special branch of study. Roemer readsThat is, no one will attempt to compete
-with them in their special branch of study. Roemer reads καὶ πρὸς τοὺς περὶ τὰ τοιαῦτα , translated by Jebb as if there were a full stop at
-ὑπερέχειν . “In like manner we vie with those engaged in such or such pursuits.”
+[^^9_4]: That is, no one will attempt to compete with them in their special branch of study. Roemer reads `καὶ πρὸς τοὺς περὶ τὰ τοιαῦτα` , translated by Jebb as if there were a full stop at
+`ὑπερέχειν` . “In like manner we vie with those engaged in such or such pursuits.”
 
-[^^9_5]: 2.4.21.2.4.21.
+[^^9_5]: 2.4.21.
 
-[^^9_6]: “The same state of mind which is absent in the painful feeling will be present in the joy“The same state of mind which is absent in the
-painful feeling will be present in the joy excited by the opposite occasions,” meaning that, if one set of circumstances produces pain, the opposite
+[^^9_6]: The same state of mind which is absent in the painful feeling will be present in the joy excited by the opposite occasions,” meaning that, if one set of circumstances produces pain, the opposite
 will produce pleasure (Cope). Or, omitting οὐκ before ἔχοντες , “For in the same frame of mind as they are pained (at another's good fortune) they
 will rejoice in the contrary state of things” (at another's bad fortune). 
 

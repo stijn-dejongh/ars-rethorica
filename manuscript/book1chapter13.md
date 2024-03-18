@@ -11,9 +11,7 @@ extends without a break throughout the wide-ruling sky and the boundless earth. 
 Messeniacus . . . . And in relation to persons, there is a twofold division of law; for what one ought to do or ought not to do is concerned with
 the community generally, or one of its members.
 
-Therefore there are two kinds of just and unjust acts, since they can be
-committed against a definite individual or against the community; he who commitsTherefore there are two kinds of just and unjust acts, since they
-can be committed against a definite individual or against the community; he who commits adultery or an assault is guilty of wrong against a definite
+Therefore there are two kinds of just and unjust acts, since they can be committed against a definite individual or against the community; he who commits adultery or an assault is guilty of wrong against a definite
 individual, he who refuses to serve in the army of wrong against the State. All kinds of wrong acts having been thus distinguished, some of which
 affect the State, others one or several individuals, let us repeat the definition of being wronged, [^^12_3] and then go on to the rest. Being
 wronged is to suffer injustice at the hands of one who voluntarily inflicts it, for it has been established that injustice is a voluntary act. And
@@ -62,7 +60,7 @@ arbitrators were appointed was that equity might prevail. Let this manner of def
 
 [^^12_1]: Soph. Ant. 456 .
 
-[^^12_2]: OfOf Elis , pupil of Gorgias. The oration is not extant, but the scholiast supplies his words: ἐλευθέρους ἀφῆκε πάντας θεός: οὐδένα δοῦλον
+[^^12_2]: Of Elis , pupil of Gorgias. The oration is not extant, but the scholiast supplies his words: ἐλευθέρους ἀφῆκε πάντας θεός: οὐδένα δοῦλον
 ἡ φύσις πεποίηκεν (“God has left all men free; Nature has made none a slave”). The Messenians had revolted from Sparta .
 
 [^^12_3]: 1.10.3.1.10.3.
@@ -77,7 +75,7 @@ arbitrators were appointed was that equity might prevail. Let this manner of def
 
 [^^12_8]: Roemer reads, after Dittmeyer,Roemer reads, after Dittmeyer, εἰ ἐπὶ βλάβῃ [τούτου ἀφ᾽ οὗ ἔλαβε] καὶ . . . from the old Latin translation
 
-[^^12_9]: Laws are special and general, the former being written or unwritten. The unwrittenLaws are special and general, the former being written
+[^^12_9]: Laws are special and general, the former being written
 or unwritten. The unwritten law, again, is of two kinds: (1) general; (2) supplementary to the special written law. This general law (not the same
 as the general law “based upon nature” sect. 2) refers to acts which go beyond the legal standard of virtuous or vicious acts and are characterized
 by a remarkable degree ( καθ᾽ ὑπερβολήν ) of virtue or the opposite. For these laws do not prescribe any special reward or punishment, but acts are

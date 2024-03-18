@@ -70,39 +70,36 @@ which induce men to commit wrong, the nature and motive of the wrongs, and the k
 
 {pagebreak}
 
-[^^11_1]: Book 2.19.Book 2.19.
+[^^11_1]: Book 2.19.
 
-[^^11_2]: Two different persons. If the secondTwo different persons. If the second ὁ be omitted, the reference is to one.
+[^^11_2]: Two different persons. If the second ὁ be omitted, the reference is to one.
 
-[^^11_3]: Or, a “resourceful mind.”Or, a “resourceful mind.”
+[^^11_3]: Or, a “resourceful mind.”
 
-[^^11_4]: Who Zeno was, and what the story, is unknown.Who Zeno was, and what the story, is unknown.
+[^^11_4]: Who Zeno was, and what the story, is unknown.
 
-[^^11_5]: Some do wrong for the sake of gain, others for the sake of praise; but the formerSome do wrong for the sake of gain, others for the sake
-of praise; but the former sacrifice honor for self-interest, the latter self-interest for honor.
+[^^11_5]: Some do wrong for the sake of gain, others for the sake of praise; but the former sacrifice honor for self-interest, the latter self-interest for honor.
 
-[^^11_6]: “More distant” (Jebb).“More distant” (Jebb).
+[^^11_6]: “More distant” (Jebb).
 
-[^^11_7]: With a comma or colon afterWith a comma or colon after τὰ τοιαῦτα ; without these render: “those who possess such things as they . . .”
+[^^11_7]: With a comma or colon after τὰ τοιαῦτα ; without these render: “those who possess such things as they . . .”
 
-[^^11_8]: Who were too far off to retaliate.Who were too far off to retaliate.
+[^^11_8]: Who were too far off to retaliate.
 
-[^^11_9]: A proverb meaning “an easy prey.” The Mysians were regarded as cowardlyA proverb meaning “an easy prey.” The Mysians were regarded as
-cowardly and unwarlike.
+[^^11_9]: A proverb meaning “an easy prey.” The Mysians were regarded as cowardly and unwarlike.
 
-[^^11_10]: αἰκία (assault) was a less serious offence than ὕβρις (wanton outrage).
+[^^11_10]: `αἰκία` (assault) was a less serious offence than `ὕβρις` (wanton outrage).
 
-[^^11_11]: οἷς i.e. supplying ἀδικουμένοις , “by whose being wronged.” οὓς has been suggested, i.e. supplying ἀδικοῦντες , “wronging whom.”
+[^^11_11]: `οἷς` i.e. supplying `ἀδικουμένοις` , “by whose being wronged.” `οὓς` has been suggested, i.e. supplying `ἀδικοῦντες`, “wronging whom.”
 
-[^^11_12]: In our relations with whom, almost = from whom.In our relations with whom, almost = from whom. Another interpretation is: “In reference
+[^^11_12]: In our relations with whom, almost = from whom. Another interpretation is: “In reference
 to whom there is a chance . . . consideration from others , meaning the judges” (Welldon).
 
-[^^11_13]: Callipus was a friend of Dion, who freedCallipus was a friend of Dion, who freed Syracuse from Dionysius the Younger. He afterwards
+[^^11_13]: Callipus was a friend of Dion, who freed Syracuse from Dionysius the Younger. He afterwards
 accused Dion and contrived his murder. His excuse was that Dion knew what he intended to do, and would be likely to strike first, if he did not
 anticipate him.
 
-[^^11_14]: Aenesidemus, tyrant of Leontini, being anticipated by Gelon, tyrant ofAenesidemus, tyrant of Leontini, being anticipated by Gelon, tyrant
-of Syracuse , in the enslavement of a neighboring state, sent him the cottabus prize, as a compliment for having “played the game” so skilfully. The
+[^^11_14]: Aenesidemus, tyrant of Leontini, being anticipated by Gelon, tyrant of Syracuse , in the enslavement of a neighboring state, sent him the cottabus prize, as a compliment for having “played the game” so skilfully. The
 cottabus was originally a Sicilian game.
 
 [^^11_15]: Tyrant of Pherae.Tyrant of Pherae. 

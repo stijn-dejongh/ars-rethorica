@@ -24,20 +24,17 @@ knew it; for no one admits that he has need of what is insignificant.
 
 {pagebreak}
 
-[^^6_1]: χάρις may mean (1) benevolence, the feeling which prompts a favor; (2) an actual favor conferred; (3) gratitude.
+[^^6_1]: `χάρις` may mean (1) benevolence, the feeling which prompts a favor; (2) an actual favor conferred; (3) gratitude.
 
-[^^6_2]: Probably given to a beggar or vagrant who had nothing to sleep on.Probably given to a beggar or vagrant who had nothing to sleep on.
+[^^6_2]: Probably given to a beggar or vagrant who had nothing to sleep on.
 
-[^^6_3]: That is, should have in view the satisfaction of urgent wantsThat is, should have in view the satisfaction of urgent wants and desires (
-Cope).
+[^^6_3]: That is, should have in view the satisfaction of urgent wants and desires (Cope).
 
-[^^6_4]: ReadingReading ὅτε ; others read οἷς , “by whom.”
+[^^6_4]: Reading `ὅτε` ; others read `οἷς`, “by whom.”
 
 [^^6_5]: ἀχαρίστους : the word generally means “ungrateful,” and so Jebb takes it here: “and to make men ungrateful.”
 
-[^^6_6]: The other five categories in Aristotle's list are: relation, position, possession, activity,The other five categories in Aristotle's list
-are: relation, position, possession, activity, passivity.
+[^^6_6]: The other five categories in Aristotle's list are: relation, position, possession, activity, passivity.
 
-[^^6_7]: Because in that case their motives in rendering the greater service cannot be disinterested.Because in that case their motives in rendering
-the greater service cannot be disinterested. 
+[^^6_7]: Because in that case their motives in rendering the greater service cannot be disinterested. 
 

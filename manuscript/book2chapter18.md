@@ -34,16 +34,16 @@ the chapter as originally arranged, although it is not supposed that any part of
 
 [^^17_2]: Both forensic and deliberative.Both forensic and deliberative.
 
-[^^17_3]: Or, “for in both forensic and deliberative arguments the issue is the state of theOr, “for in both forensic and deliberative arguments the
+[^^17_3]: Or, “for in both forensic and deliberative arguments the
 issue is the state of the case.”
 
-[^^17_4]: Book 1.8.Book 1.8.
+[^^17_4]: Book 1.8.
 
-[^^17_5]: Book 1.3.Book 1.3.
+[^^17_5]: Book 1.3.
 
-[^^17_6]: Book 1.4-8.Book 1.4-8.
+[^^17_6]: Book 1.4-8.
 
-[^^17_7]: Book 1.9, 10-15.Book 1.9, 10-15.
+[^^17_7]: Book 1.9, 10-15.
 
 [^^17_8]: 1.9.40. Amplication is to be understood of the exaggeration of both great and small things. It is most1.9.40. Amplication is to be
 understood of the exaggeration of both great and small things. It is most suited to epideictic oratory, in which there is no doubt as to the facts;

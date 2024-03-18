@@ -32,16 +32,15 @@ in the same manner.
 
 {pagebreak}
 
-[^^0_1]: This is Cope's interpretation. Jebb renders: “If we take each branch of Rhetoric by itself.” TheThis is Cope's interpretation. Jebb
-renders: “If we take each branch of Rhetoric by itself.” The classes are of course the deliberative, forensic, and epideictic.
+[^^0_1]: This is Cope's interpretation. Jebb renders: “If we take each branch of Rhetoric by itself.” The classes are of course the deliberative, forensic, and epideictic.
 
-[^^0_2]: The instructions given for enthymematic or logical proof should suffice; butThe instructions given for enthymematic or logical proof should
+[^^0_2]: The instructions given for enthymematic or logical proof should
 suffice; but since the function of Rhetoric is to find the available means of persuasion and its end is a judgement; and since an appeal to the
 speaker's own character and to the passions of those who are to give the judgement is bound to carry great weight, the speaker must be provided with
 rules for ethical and “pathetic” (emotional) proofs. In Book 1.5 Aristotle mentions appeals to the emotions with disapproval, but this does not
 apply to all such appeals, but only to those which are likely to bias the judges unfairly (e.g. stirring up envy, hatred, a desire for revenge).
 
-[^^0_3]: Opposed toOpposed to εὐέλπιδι . Others render “in a bad humor.”
+[^^0_3]: Opposed to εὐέλπιδι . Others render “in a bad humor.”
 
 [^^0_4]: ἐπιεικής and σπουδαῖος both = ἀγαθός . In a restricted sense ἐπιεικής is “respectable,” σπουδαῖος “serious.”
 

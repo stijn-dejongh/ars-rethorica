@@ -4,9 +4,7 @@ It remains to speak of the proofs common to all branches of Rhetoric, since the 
 two kinds, example and enthymeme (for the maxim is part of an enthymeme). Let us then first speak of the example; for the example resembles
 induction, and induction is a beginning. [^^19_1]
 
-There are two kinds of examples; namely, one which consists in relating things
-that have happened before, and another in inventing them oneself. The latter areThere are two kinds of examples; namely, one which consists in
-relating things that have happened before, and another in inventing them oneself. The latter are subdivided into comparisons or fables, such as
+There are two kinds of examples; namely, one which consists in relating things that have happened before, and another in inventing them oneself. The latter are subdivided into comparisons or fables, such as
 those of Aesop and the Libyan. [^^19_2] It would be an instance of the historical kind of example, if one were to say that it is necessary to make
 preparations against the Great King and not to allow him to subdue Egypt ; for Darius did not cross over to Greece until he had obtained possession
 of Egypt ; but as soon as he had done so, he did. Again, Xerxes did not attack us until he had obtained possession of that country, but when he had,
@@ -41,12 +39,12 @@ even a single trustworthy witness is of use. We have thus stated how many kinds 
 
 {pagebreak}
 
-[^^19_1]: As a starting-point and first principle of knowledge.As a starting-point and first principle of knowledge.
+[^^19_1]: As a starting-point and first principle of knowledge.
 
-[^^19_2]: The Libyan fables were of African origin. They are mentioned by QuintilianThe Libyan fables were of African origin. They are mentioned by
+[^^19_2]: The Libyan fables were of African origin. They are mentioned by
 Quintilian ( Quint. Inst. Orat. 5.11.20 ) and belonged to the class of animal fables.
 
-[^^19_3]: TheThe παραβολή as understood by Aristotle is a comparison and application of cases easily supposable and such as occur in real life, for
+[^^19_3]: The παραβολή as understood by Aristotle is a comparison and application of cases easily supposable and such as occur in real life, for
 the purpose of illustrating the point in question; the fable, on the other hand, is pure fiction.
 
 [^^19_4]: “Literary knowledge” (Jebb); “literature” (Cope, Introd. p. 256, who,“Literary knowledge” (Jebb); “literature” (Cope, Introd. p. 256, who,

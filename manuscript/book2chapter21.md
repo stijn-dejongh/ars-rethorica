@@ -60,44 +60,41 @@ how many kinds of them there are, the way they should be used, and what their ad
 
 {pagebreak}
 
-[^^20_1]: Putting the comma afterPutting the comma after σχεδόν .
+[^^20_1]: Putting the comma after `σχεδόν`.
 
 [^^20_2]: Eur. Med. 294-297 .
 
-[^^20_3]: “The idle habits which they contract”“The idle habits which they contract” (Cope).
+[^^20_3]: “The idle habits which they contract” (Cope).
 
-[^^20_4]: Euripides,Euripides, Stheneboea (frag. 661, T.G.F. ).
+[^^20_4]: Euripides, Stheneboea (frag. 661, T.G.F. ).
 
 [^^20_5]: Eur. Hec. 864-865 .
 
-[^^20_6]: Maxims with an epilogue are (1) imperfect enthymemes, or (2)Maxims with an epilogue are (1) imperfect enthymemes, or (2) enthymematic in
-character, but not in form; those without an epilogue are (1) such as are well known, or (2) such as are clear as soon as they are uttered.
+[^^20_6]: Maxims with an epilogue are (1) imperfect enthymemes, or (2) enthymematic in character, but not in form; those without an epilogue are (1) such as are well known, or (2) such as are clear as soon as they are uttered.
 
-[^^20_7]: Something added as a supplementary proof, the why and theSomething added as a supplementary proof, the why and the wherefore; in Book 3.19
-it is used for the peroration of a speech.
+[^^20_7]: Something added as a supplementary proof, the why and the wherefore; in Book 3.19 it is used for the peroration of a speech.
 
-[^^20_8]: From Simonides or Epicharmus.From Simonides or Epicharmus.
+[^^20_8]: From Simonides or Epicharmus.
 
 [^^20_9]: Eur. Tro. 1051 .
 
-[^^20_10]: See sect. 2.See sect. 2.
+[^^20_10]:See sect. 2.
 
-[^^20_11]: They partake of the nature of, but not of the form of, enthymemes.They partake of the nature of, but not of the form of, enthymemes.
+[^^20_11]: They partake of the nature of, but not of the form of, enthymemes.
 
-[^^20_12]: Author unknown (Author unknown ( T.G.F. p. 854).
+[^^20_12]: Author unknown ( T.G.F. p. 854).
 
-[^^20_13]: According toAccording to Bentley , from Epicharmus.
+[^^20_13]: According to Bentley , from Epicharmus.
 
-[^^20_14]: Meaning that the land would be devastated and the trees cut down.Meaning that the land would be devastated and the trees cut down.
+[^^20_14]: Meaning that the land would be devastated and the trees cut down.
 
 [^^20_15]: Hom. Il. 12.243 .
 
 [^^20_16]: Hom. Il. 18.309 .
 
-[^^20_17]: 1.15.14.1.15.14.
+[^^20_17]: 1.15.14.
 
-[^^20_18]: Cf.Cf. Thuc. 1.70 , where the Corinthians complain of the lack of energy shown by the Spartans, as compared with their own restless and
-troublesome neighbors, the Athenians.
+[^^20_18]: Cf. Thuc. 1.70 , where the Corinthians complain of the lack of energy shown by the Spartans, as compared with their own restless and troublesome neighbors, the Athenians.
 
 [^^20_19]: “Want of cultivation and intelligence” (Cope). ““Want of cultivation and intelligence” (Cope). “ Amour-propre ” (St. Hilaire).
 

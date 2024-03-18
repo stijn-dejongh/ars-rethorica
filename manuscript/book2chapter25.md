@@ -46,19 +46,18 @@ demonstration, everything at once becomes clear. [^^24_14]
 
 [^^24_2]: i.e., thei.e., the opponent's enthymeme.
 
-[^^24_3]: Love is regarded as a desire, and therefore as bad as any other desire. It is here included underLove is regarded as a desire, and
-therefore as bad as any other desire. It is here included under the general head of want.
+[^^24_3]: Love is regarded as a desire, and therefore as bad as any other desire. It is here included under the general head of want.
 
 [^^24_4]: Incest:Incest: Ovid Met. 9.454 .
 
-[^^24_5]: The contrary of “good men do good to all theirThe contrary of “good men do good to all their friends” is “bad men do harm to all their
+[^^24_5]: The contrary of “good men do good to all their friends” is “bad men do harm to all their
 friends,” but this is not always true. Jebb gives the objection as: “No, the bad man does not do evil to all his enemies.”
 
-[^^24_6]: TranslatingTranslating ἀεί inserted by Vahlen before ὄντος .
+[^^24_6]: Translating ἀεί inserted by Vahlen before ὄντος .
 
-[^^24_7]: That is, if the argument is shown to be not “necessary.”That is, if the argument is shown to be not “necessary.”
+[^^24_7]: That is, if the argument is shown to be not “necessary.”
 
-[^^24_8]: The important point in the conclusion drawn isThe important point in the conclusion drawn is that the judge thinks it is not his business
+[^^24_8]: The important point in the conclusion drawn is that the judge thinks it is not his business
 to decide, because the argument is not necessary, whereas his duty is to decide, not about things that are necessary but about things that are
 probable.
 
@@ -67,13 +66,13 @@ admitted; both date and facts may be questioned; both date and facts may be admi
 shillings in 1914 , not in 1924 ). Others take χρόνῳ to mean the greater number of times the same fact has occurred, πράγμασι the more numerous
 facts that increase probability. But χρόνῳ can hardly bear this meaning （see Jebb's note).
 
-[^^24_10]: 1.2.18; or, “at the beginning,” i.e., of1.2.18; or, “at the beginning,” i.e., of this book.
+[^^24_10]: 1.2.18; or, “at the beginning,” i.e., of this book.
 
 [^^24_11]: Aristot. Pr. Anal. 2.27 .
 
-[^^24_12]: On the other side, in the opponent's favor.On the other side, in the opponent's favor.
+[^^24_12]: On the other side, in the opponent's favor.
 
 [^^24_13]: Aristot. Pr. Anal. 2.27 .
 
-[^^24_14]: That is, “when theThat is, “when the tekmērion is converted into a syllogism.” For tekmērion see 1.2.16. 
+[^^24_14]: That is, “when the tekmērion is converted into a syllogism.” For tekmērion see 1.2.16. 
 

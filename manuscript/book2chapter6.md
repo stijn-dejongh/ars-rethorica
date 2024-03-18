@@ -71,20 +71,19 @@ knowledge of it from the contrary arguments.
 
 {pagebreak}
 
-[^^5_1]: Euripides,Euripides, Cresphontes : αἰδὼς ἐν ὀφθαλμοῖσι γίγνεται, τέκνον ( T.G.F. frag. 457).
+[^^5_1]: Euripides, Cresphontes : αἰδὼς ἐν ὀφθαλμοῖσι γίγνεται, τέκνον ( T.G.F. frag. 457).
 
-[^^5_2]: Jebb translates, “who have never seen us break down.”Jebb translates, “who have never seen us break down.”
+[^^5_2]: ”Jebb translates, “who have never seen us break down.”
 
-[^^5_3]: The Greek scholiast says: “Euripides, having been sent as ambassador to theThe Greek scholiast says: “Euripides, having been sent as
+[^^5_3]: The Greek scholiast says: “Euripides, having been sent as
 ambassador to the Syracusans, to ask for peace and friendship, when they refused said: O Syracusans, if for no other reason than that we are just
 feeling the need of your friendship, you ought to respect our admiration.” Nothing is known of this embassy. Hyperides has been suggested instead of
 Euripides.
 
-[^^5_4]: This rendering involves a plural neuter with a plural verb.This rendering involves a plural neuter with a plural verb. Others take the
-actions or things in a good sense, “deeds and fortunes, their own or their ancestors, which they are likely to disgrace.”
+[^^5_4]: This rendering involves a plural neuter with a plural verb. Others take the actions or things in a good sense, “deeds and fortunes, their own or their ancestors, which they are likely to disgrace.”
 
-[^^5_5]: i.e. when they have done anythingi.e. when they have done anything disgraceful.
+[^^5_5]: i.e. when they have done anything disgraceful.
 
-[^^5_6]: When on an embassy toWhen on an embassy to Syracuse , he was asked by Dionysius which was the best kind of brass. On his replying, “that
+[^^5_6]: When on an embassy to Syracuse , he was asked by Dionysius which was the best kind of brass. On his replying, “that
 from which the Athenians made their statues of Harmodius and Aristogiton,” Dionysius ordered him to be put to death. 
 
