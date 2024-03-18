@@ -90,40 +90,38 @@ The definition of virtue, with which the topic of praise is most closely connect
 
 {pagebreak}
 
-[^^4_1]: This is the usual rendering, although it is hardly satisfactory. Jebb translates “a flourishing state . . . ofThis is the usual rendering,
-although it is hardly satisfactory. Jebb translates “a flourishing state . . . of body.”
+[^^4_1]: This is the usual rendering, although it is hardly satisfactory. Jebb translates “a flourishing state . . . of body.”
 
-[^^4_2]: Or, “bring about,” “effect them.”Or, “bring about,” “effect them.”
+[^^4_2]: Or, “bring about,” “effect them.”
 
-[^^4_3]: i.e. of mind and body; or δυνάμεις may mean “positions of authority and influence.”
+[^^4_3]: i.e. of mind and body; or `δυνάμεις` may mean “positions of authority and influence.”
 
-[^^4_4]: This was a favorite boast of theThis was a favorite boast of the Athenians.
+[^^4_4]: This was a favorite boast of the Athenians.
 
-[^^4_5]: ἀνελευθερία : literally, qualities unbecoming to a free man or woman, ungentlemanly, unladylike; hence, mean, servile, sordid.
+[^^4_5]: `ἀνελευθερία` : literally, qualities unbecoming to a free man or woman, ungentlemanly, unladylike; hence, mean, servile, sordid.
 
-[^^4_6]: A similar charge against the Spartan woman is made inA similar charge against the Spartan woman is made in Aristot. Pol. 2.9.5 : “Further
-the looseness ( ἄνεσις ) of the Spartan women is injurious both to the purpose of the constitution and the well-being of the State . . . their life
+[^^4_6]: A similar charge against the Spartan woman is made in Aristot. Pol. 2.9.5 : “Further the looseness ( ἄνεσις ) of the Spartan women is
+injurious both to the purpose of the constitution and the well-being of the State . . . their life
 is one of absolute luxury and intemperance” (compare Eur. Andr. 595-596 “even if she wished it, a Spartan girl could not be chaste”). The opinion of
 Xenophon and Plutarch is much more favorable.
 
-[^^4_7]: ἢ μή : in the MS. readings these words follow τοῦ οἰκεῖα εἶναι : “ownership or non-ownership.” The alteration is Spengel's.
+[^^4_7]: `ἢ μή` : in the MS. readings these words follow `τοῦ οἰκεῖα εἶναι` : “ownership or non-ownership.” The alteration is Spengel's.
 
-[^^4_8]: ἐνέργεια : realization in action or fact.
+[^^4_8]: `ἐνέργεια` : realization in action or fact.
 
-[^^4_9]: OfOf Selymbria , physician and teacher of hygienic gymnastics (c. 420 B.C.). He is said to have made his patients walk from Athens to
+[^^4_9]: Of Selymbria, physician and teacher of hygienic gymnastics (c. 420 B.C.). He is said to have made his patients walk from Athens to
 Megara and back, about 70 miles. He was satirized by Plato and by his old pupil Hippocrates as one who killed those for whom he prescribed (cf.
 2.23.29).
 
-[^^4_10]: Five contests: jumping, running, discus-throwing,Five contests: jumping, running, discus-throwing, javelin-throwing, wrestling.
+[^^4_10]: Five contests: jumping, running, discus-throwing, javelin-throwing, wrestling.
 
-[^^4_11]: Or simply, “freedom from pain” (5.15).Or simply, “freedom from pain” (5.15).
+[^^4_11]: Or simply, “freedom from pain” (5.15).
 
-[^^4_12]: A combination of wrestling and boxing.A combination of wrestling and boxing.
+[^^4_12]: A combination of wrestling and boxing.
 
-[^^4_13]: The results of art and the results due to nature are often assisted (or hindered) byThe results of art and the results due to nature are
-often assisted (or hindered) by the interference of the irregular operations of fortune or chance. Health may be the result of fortune, as well as
-art (a sick man may be cured by a drug taken by chance, one not prescribed by the physician); beauty and strength, of fortune as well as nature. It
+[^^4_13]: The results of art and the results due to nature are often assisted (or hindered) by the interference of the irregular operations of
+fortune or chance. Health may be the result of fortune, as well as art (a sick man may be cured by a drug taken by chance, one not prescribed by the physician); beauty and strength, of fortune as well as nature. It
 is parenthetically remarked that fortune may also produce unnatural monstrosities. The removal of the brackets and the substitution of a comma for
-the colon after φύσις have been suggested. The meaning would then be: “for instance, such as are due to nature, but possibly may be also contrary to
-nature.” 
+the colon after `φύσις` have been suggested. The meaning would then be: “for instance, such as are due to nature, but possibly may be also contrary
+to nature.” 
 

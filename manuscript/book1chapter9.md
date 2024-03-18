@@ -105,19 +105,18 @@ these are known their contraries are obvious, since blame is derived from the co
 
 {pagebreak}
 
-[^^8_1]: Or, “a faculty of doing many and great benefits to all men in all cases”Or, “a faculty of doing many and great benefits to all men in all
-cases” (Jebb).
+[^^8_1]: Or, “a faculty of doing many and great benefits to all men in all cases” (Jebb).
 
-[^^8_2]: Or, takingOr, taking εἰς εὐδαιμονίαν with βουλεύεσθαι , “come to a wise decision conducive to their happiness.”
+[^^8_2]: Or, taking `εἰς εὐδαιμονίαν` with `βουλεύεσθαι`, “come to a wise decision conducive to their happiness.”
 
 [^^8_3]: i.e. the causes and results of virtue (Cope); or, the noble and the disgracefuli.e. the causes and results of virtue (Cope); or, the noble
 and the disgraceful (Jebb).
 
-[^^8_4]: Frag. 55 (Frag. 55 ( P.L.G. 3.).
+[^^8_4]: Frag. 55 ( P.L.G. 3.).
 
-[^^8_5]: Frag. 28 (Frag. 28 ( P.L.G. 3.).
+[^^8_5]: Frag. 28 ( P.L.G. 3.).
 
-[^^8_6]: Those whose qualities are extremeThose whose qualities are extreme may be described as possessing the virtues of which these are the
+[^^8_6]: Those whose qualities are extreme may be described as possessing the virtues of which these are the
 excess.
 
 [^^8_7]: Plat. Menex. 235d .
@@ -126,24 +125,22 @@ excess.
 be brave and great hunters; the Spartans hardy, courageous, and brief in speech; the Athenians fond of literature—and they should be praised
 accordingly.
 
-[^^8_9]: That is,That is, τὸ τίμιον looks as if it were really καλόν , and should be spoken as if it were so.
+[^^8_9]: That is, `τὸ τίμιον` looks as if it were really `καλόν`, and should be spoken as if it were so.
 
 [^^8_10]: Cp. 7.32 above.Cp. 7.32 above.
 
-[^^8_11]: Frag. 111 (Frag. 111 ( P.L.G. 3.).
+[^^8_11]: Frag. 111 ( P.L.G. 3.).
 
-[^^8_12]: Archedice, daughter of Hippias, tyrant ofArchedice, daughter of Hippias, tyrant of Athens , and wife of Aeantides, son of Hippocles,
+[^^8_12]: Archedice, daughter of Hippias, tyrant of Athens , and wife of Aeantides, son of Hippocles,
 tyrant of Lampsacus .
 
-[^^8_13]: In the first sentence, the statement is imperative, there is a prohibition; in the second, it is a simpleIn the first sentence, the
-statement is imperative, there is a prohibition; in the second, it is a simple affirmative, implying praise. In the one case there is forbidding, in
+[^^8_13]: In the first sentence, the statement is imperative, there is a prohibition; in the second, it is a simple affirmative, implying praise. In the one case there is forbidding, in
 the other not-forbidding, which are opposites.
 
-[^^8_14]: Nothing more is known of him.Nothing more is known of him.
+[^^8_14]: Nothing more is known of him.
 
-[^^8_15]: Who slew Hipparchus, tyrant ofWho slew Hipparchus, tyrant of Athens .
+[^^8_15]: Who slew Hipparchus, tyrant of Athens .
 
-[^^8_16]: ReadingReading ἀσυνήθειαν . He had no legal practice, which would have shown the irrelevancy of comparisons in a law court, whereas in
-epideictic speeches they are useful. συνήθειαν gives exactly the opposite sense, and must refer to his having written speeches for others to deliver
+[^^8_16]: Reading `ἀσυνήθειαν`. He had no legal practice, which would have shown the irrelevancy of comparisons in a law court, whereas in
+epideictic speeches they are useful. `συνήθειαν` gives exactly the opposite sense, and must refer to his having written speeches for others to deliver
 in the courts. 
-

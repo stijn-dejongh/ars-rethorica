@@ -112,22 +112,21 @@ injury; [^^6_18] for in the former case, a man has been deprived of that which h
 
 {pagebreak}
 
-[^^6_1]: The one, the smaller number, and the greater number must be of the same species. Thus, 5 pounds is a greater goodThe one, the smaller
-number, and the greater number must be of the same species. Thus, 5 pounds is a greater good than 2 pounds; but 5 farthings is not a greater good
+[^^6_1]: The one, the smaller number, and the greater number must be of the same species. Thus, 5 pounds is a greater good than 2 pounds; but 5
+farthings is not a greater good
 than 2 pounds, since the smaller number is not reckoned in with the greater Buckley .
 
-[^^6_2]: If B (life) follows on, is the consequentIf B (life) follows on, is the consequent of A (health), but A is not the consequent of B, then A
-is a greater good than B.
+[^^6_2]: If B (life) follows on, is the consequent of A (health), but A is not the consequent of B, then A is a greater good than B.
 
 [^^6_3]: Eight is greater than 2 by 6, which itself is greater than 2.Eight is greater than 2 by 6, which itself is greater than 2.
 
-[^^6_4]: A thing may be of greater importance in two ways: (a) that which is a firstA thing may be of greater importance in two ways: (a) that which
+[^^6_4]: A thing may be of greater importance in two ways: (a) that which
 is a first principle is superior to that which is not; (b) that which is not a first principle, but an end, is superior to that which is a first
 principle; for the end is superior to the means. In the illustration that follows: (a) the first principle (suggesting the plot) is said to be of
 more importance (worse) than the end or result (carrying out the plot); (b) on the other hand, this end is said to be worse than the first
 principle, since the end is superior to the means. Thus the question of the amount of guilt can be argued both ways.
 
-[^^6_5]: Oropus, a frontier-town ofOropus, a frontier-town of Boeotia and Attica , had been occupied by the Thebans ( 366 B.C.). Callistratus
+[^^6_5]: Oropus, a frontier-town of Boeotia and Attica , had been occupied by the Thebans ( 366 B.C.). Callistratus
 suggested an arrangement which was agreed to and carried out by Chabrias—that the town should remain in Theban possession for the time being.
 Negotiations proved unsuccessful and the Thebans refused to leave, whereupon Chabrias and Callistratus were brought to trial. Leodamas was an
 Athenian orator, pupil of Isocrates, and pro-Theban in his political views.
@@ -139,9 +138,9 @@ better than hearing (Schrader).
 
 [^^6_8]: “Things of which the prices are greater, price“Things of which the prices are greater, price being a sort of worth” (Jebb).
 
-[^^6_9]: Or, “superiority over a greater number ofOr, “superiority over a greater number of things.”
+[^^6_9]: Or, “superiority over a greater number of things.”
 
-[^^6_10]: AfterAfter πεῖσαι all the MSS. except A Paris have λέγουσαν . If this is retained, it must refer to Meleager's wife Cleopatra, who
+[^^6_10]: After `πεῖσαι` all the MSS. except A Paris have `λέγουσαν` . If this is retained, it must refer to Meleager's wife Cleopatra, who
 “persuaded him . . . by quoting.” As the text stands, the literal rendering is: “the poet says that (the recital of the three verses) persuaded.”
 The passage is from Hom. Il. 9.592-594 (slightly different).
 
@@ -149,20 +148,19 @@ The passage is from Hom. Il. 9.592-594 (slightly different).
 others, in the island of Cos). His comedies, written in the Doric dialect, and without a chorus, were either mythological or comedies of manners, as
 extant titles show. Plato speaks of him as “the prince of comedy” and Horace states definitely that he was imitated by Plautus.
 
-[^^6_12]: Simonides, Frag. 163 (Simonides, Frag. 163 ( P.L.G. 3.).
+[^^6_12]: Simonides, Frag. 163 ( P.L.G. 3.).
 
-[^^6_13]: Or, the yoke to which the basket, like our milk-pails long ago, wasOr, the yoke to which the basket, like our milk-pails long ago, was
-attached.
+[^^6_13]: Or, the yoke to which the basket, like our milk-pails long ago, was attached.
 
 [^^6_14]: Hom. Od. 22.347 . The words are those of the minstrel Phemius, who was forced to sing to the suitors of Penelope.
 
-[^^6_15]: Not in the oration inNot in the oration in Thuc. 2.35 .
+[^^6_15]: Not in the oration in Thuc. 2.35 .
 
-[^^6_16]: Or, readingOr, reading καὶ ἁπλῶς : “that which is useful both to the individual and absolutely is a greater good” (than that which is only
+[^^6_16]: Or, reading `καὶ ἁπλῶς` : “that which is useful both to the individual and absolutely is a greater good” (than that which is only
 useful in one way), but this necessitates a considerable ellipse.
 
-[^^6_17]: It is difficult to see the connection here. Munro'sIt is difficult to see the connection here. Munro's suggestion, τῷ δοκεῖν for τοῦ
-δοκεῖν , adopted by Roemer, would mean “by the show of it,” that is, by its attracting notice.
+[^^6_17]: It is difficult to see the connection here. Munro's suggestion, `τῷ δοκεῖν for τοῦ
+δοκεῖν`, adopted by Roemer, would mean “by the show of it,” that is, by its attracting notice.
 
-[^^6_18]: Or, “is not punished equally.”Or, “is not punished equally.” 
+[^^6_18]: Or, “is not punished equally.” 
 

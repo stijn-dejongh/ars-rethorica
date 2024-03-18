@@ -47,10 +47,9 @@ their fondness for one or the other. Now arguments that depend on examples are n
 enthymemes meet with greater approval. Their origin and the way in which each should be used will be discussed later [^^1_8] ; for the moment let us
 define more clearly these proofs themselves.
 
-Now, that which is persuasive is persuasive in reference to some one, and is
-persuasive and convincing either at once and in and by itself, or because itNow, that which is persuasive is persuasive in reference to some one,
-and is persuasive and convincing either at once and in and by itself, or because it appears to be proved by propositions that are
-convincing [^^1_9] ; further, no art has the particular in view, medicine for instance what is good for Socrates or Callias, but what is good for
+Now, that which is persuasive is persuasive in reference to some one, and is persuasive and convincing either at once and in and by itself, or
+because it appears to be proved by propositions that are convincing [^^1_9] ; further, no art has the particular in view, medicine for instance what
+is good for Socrates or Callias, but what is good for
 this or that class of persons (for this is a matter that comes within the province of an art, whereas the particular is infinite and cannot be the
 subject of a true science); similarly, therefore, Rhetoric will not consider what seems probable in each individual case, for instance to Socrates
 or Hippias, but that which seems probable to this or that class of persons. It is the same with Dialectic, which does not draw conclusions from any
@@ -133,47 +132,43 @@ and of the members of the State as a whole, may be described as an offshoot of P
 
 [^^1_3]: Aristot. Pr. Anal. 2.23 ; Aristot. Post. Anal. 1.1 .
 
-[^^1_4]: That is, enthymeme and example must be the same as syllogism and induction.That is, enthymeme and example must be the same as syllogism and
-induction.
+[^^1_4]: That is, enthymeme and example must be the same as syllogism and induction.
 
-[^^1_5]: From the definitions of syllogism (1.1) and inductionFrom the definitions of syllogism (1.1) and induction (1.12). No particular passage,
-however, explains the difference here mentioned.
+[^^1_5]: From the definitions of syllogism (1.1) and induction (1.12). No particular passage, however, explains the difference here mentioned.
 
-[^^1_6]: The employment of syllogism and induction,The employment of syllogism and induction, τὸ εἶδος τῆς ῥητορικῆς being taken as simply = ἡ
+[^^1_6]: The employment of syllogism and induction, τὸ εἶδος τῆς ῥητορικῆς being taken as simply = ἡ
 ῥητορική . Another rendering is: “that each kind of Rhetoric (that which depends upon example or upon enthymeme) enjoys some special advantage.”
 
-[^^1_7]: A lost treatise, mentioned by Diogenes Laertius in hisA lost treatise, mentioned by Diogenes Laertius in his Life of Aristotle , 24, and by
+[^^1_7]: A lost treatise, mentioned by Diogenes Laertius in his Life of Aristotle , 24, and by
 Dionysius of Halicarnassus in the first letter to Ammaeus, 6. It is supposed to have dealt with some branch of Logic.
 
-[^^1_8]: 2.20-24.2.20-24.
+[^^1_8]: 2.20-24..
 
-[^^1_9]: Or, “by persons which are so”Or, “by persons which are so” (Jebb).
+[^^1_9]: Or, “by persons which are so” (Jebb).
 
-[^^1_10]: Certain propositions, which seem paradoxical and improbable to a popular audience,Certain propositions, which seem paradoxical and
-improbable to a popular audience, must be proved before it is able to understand them.
+[^^1_10]:Certain propositions, which seem paradoxical and improbable to a popular audience, must be proved before it is able to understand them.
 
 [^^1_11]: πρῶτος : the primary, typical syllogism of the first figure.
 
-[^^1_12]: Son of Diagoras ofSon of Diagoras of Rhodes , and like his father celebrated for his victories in the Greek athletic contests. He played a
+[^^1_12]: Son of Diagoras of Rhodes, and like his father celebrated for his victories in the Greek athletic contests. He played a
 considerable part in political and naval affairs in support of the Spartans ( 412 -407 B.C.) whom he afterwards offended, and by whom he is said to
 have been put to death.
 
 [^^1_13]: Aristot. APr. 1.8.13 .
 
-[^^1_14]: That is, probabilities and signs correspond to general and necessary propositions.That is, probabilities and signs correspond to general
-and necessary propositions. This is not strictly correct; only the τεκμήρια correspond to the necessary propositions, the other signs and the other
+[^^1_14]: That is, probabilities and signs correspond to general and necessary propositions. This is not strictly correct; only the τεκμήρια
+correspond to the necessary propositions, the other signs and the other
 probabilities to the general or contingent propositions.
 
 [^^1_15]: Aristot. Pr. Anal. 2.27 .
 
-[^^1_16]: The common topics do not deal with particular subject matter, as the specific topics do. In making use of the latter, theThe common topics
-do not deal with particular subject matter, as the specific topics do. In making use of the latter, the “better” (that is, in regard to a special
+[^^1_16]: The common topics do not deal with particular subject matter, as the specific topics do. In making use of the latter, the “better” (that
+is, in regard to a special
 science) the propositions chosen by a man, the more he will without knowing it quit the domain of Rhetoric and Dialectic, and become a professor of
 that special science whose first principles he has hit upon.
 
 [^^1_17]: Aristot. Sophist. Elenchi (Fallacies) 9 . This treatise is really the ninth and concluding part of the Topics .
 
-[^^1_18]: Propositions (or premises), the name given to the two first statements in aPropositions (or premises), the name given to the two first
-statements in a syllogism from which the conclusion is drawn: All men are mortal (major premise); Socrates is a man (minor premise); therefore
-Socrates is mortal. 
+[^^1_18]: Propositions (or premises), the name given to the two first statements in a syllogism from which the conclusion is drawn: All men are
+mortal (major premise); Socrates is a man (minor premise); therefore Socrates is mortal. 
 

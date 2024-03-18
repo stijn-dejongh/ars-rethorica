@@ -69,14 +69,13 @@ expedient.
 
 {pagebreak}
 
-[^^5_1]: The excellence of anything is proportionate to its success in the performance of its proper function. TheThe excellence of anything is
-proportionate to its success in the performance of its proper function. The function of acquisition is to get something valuable, such as money, and
+[^^5_1]: The excellence of anything is proportionate to its success in the performance of its proper function. The function of acquisition is to get something valuable, such as money, and
 its “excellence” may be judges by the amount of wealth obtained.
 
 [^^5_2]: Hom. Il.1.255 . The words are those of Nestor to Achilles and Agamemnon, in which he points out how their enemies would rejoice if they
 heard all the story of their quarrel.
 
-[^^5_3]: ReadingReading ὅ . The ordinary reading οὗ is taken to mean “that which does not permit excess,” that which is midway between two extremes,
+[^^5_3]: Reading `ὅ` . The ordinary reading `οὗ` is taken to mean “that which does not permit excess,” that which is midway between two extremes,
 the mean. Another suggested rendering is, “that of which one cannot have too much.”
 
 [^^5_4]: Hom. Il. 2.160 . Addressed by Hera to Athene, begging her to prevent the Greeks departing from Troy and leaving Helen behind.
@@ -84,19 +83,18 @@ the mean. Another suggested rendering is, “that of which one cannot have too m
 [^^5_5]: Hom. Il. 2.298 . Spoken by Odysseus. While sympathizing with the desire of the army to leave, he points out that it would be “disgraceful
 after waiting so long” to return unsuccessful, and exhorts them to hold out.
 
-[^^5_6]: Proverbial for “lost labor.” Cf. French “Proverbial for “lost labor.” Cf. French “ faire naufrage au port ,” and the English “there's many
-a slip 'twixt cup and lip.”
+[^^5_6]: Cf. French “ faire naufrage au port ,” and the English “there's many a slip 'twixt cup and lip.”
 
 [^^5_7]: Meaning that they cannot have done their duty against their enemies, who would then have blamed them.Meaning that they cannot have done
-their duty against their enemies, who would then have blamed them. Another suggested reading is οὓς οἱ φίλοι ψέγουσι καὶ οὓς οἱ ἐχθροὶ μὴ ψέγουσι (
+their duty against their enemies, who would then have blamed them. Another suggested reading is `οὓς οἱ φίλοι ψέγουσι καὶ οὓς οἱ ἐχθροὶ μὴ ψέγουσι` (
 “those whom their friends blame and whom their enemies do not blame.”)
 
-[^^5_8]: In theIn the Iliad Glaucus, a Corinthian, is described as an ally of the Trojans. Simonides meant to praise, but the Corinthians were
+[^^5_8]: In the Iliad Glaucus, a Corinthian, is described as an ally of the Trojans. Simonides meant to praise, but the Corinthians were
 suspicious and thought his words were meant satirically, in accordance with the view just expressed by Aristotle. The Simonides referred to is
 Simonides of Ceos (Frag. 50, P.L.G. 3, where the line is differently given). Aristotle is evidently quoting from memory, as he often does, although
 not always accurately.
 
-[^^5_9]: γενόμενα ἄν : Spengel omits ἄν : i.e. “things which have happened.”
+[^^5_9]: `γενόμενα ἄν` : Spengel omits `ἄν` : i.e. “things which have happened.”
 
-[^^5_10]: “Or which no one else has done” (Jebb).“Or which no one else has done” (Jebb). 
+[^^5_10]: “Or which no one else has done” (Jebb). 
 

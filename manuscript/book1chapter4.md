@@ -16,8 +16,7 @@ are, faculties, but sciences, to that extent he will, without knowing it, destro
 over into the domain of sciences [^^3_2] , whose subjects are certain definite things, not merely words. Nevertheless, even at present we may
 mention such matters as it is worth while to analyze, while still leaving much for political science to investigate.
 
-Now, we may say that the most important subjects about which all men
-deliberateNow, we may say that the most important subjects about which all men deliberate and deliberative orators harangue, are five in number, to
+Now, we may say that the most important subjects about which all men deliberate and deliberative orators harangue, are five in number, to
 wit: ways and means, war and peace, the defence of the country, imports and exports, legislation.
 
 Accordingly, the orator who is going to give advice on ways and means should be acquainted with the nature and extent of the State resources, so
@@ -55,20 +54,17 @@ acquainted with those in existence in other nations, and to learn what kinds of 
 therefore, that for legislation books of travel are useful, since they help us to understand the laws of other nations, and for political debates
 historical works. [^^3_4] All these things, however, belong to Politics and not to Rhetoric.
 
-Such, then, are the most important questions upon which the would-be deliberative
-oratorSuch, then, are the most important questions upon which the would-be deliberative orator must be well informed. Now let us again state the
+Such, then, are the most important questions upon which the would-be deliberative orator must be well informed. Now let us again state the
 sources whence we must derive our arguments for exhortation or discussion on these and other questions.
 
 {pagebreak}
 
-[^^3_1]: The analytical science is Dialectic, incorrectly regarded as a branch of Analytics, whichThe analytical science is Dialectic, incorrectly
-regarded as a branch of Analytics, which properly implies scientific demonstration.
+[^^3_1]: The analytical science is Dialectic, incorrectly regarded as a branch of Analytics, which properly implies scientific demonstration.
 
-[^^3_2]: TakingTaking εἰς ἐπιστήμας with μεταβαίνειν . If taken with ἐπισκευάζων , the sense will be: “by changing his ground ( μεταβαίνειν being
+[^^3_2]: Taking `εἰς ἐπιστήμας` with `μεταβαίνειν`. If taken with `ἐπισκευάζων`, the sense will be: “by changing his ground ( `μεταβαίνειν` being
 used absolutely) while altering their characters from faculties to sciences.”
 
-[^^3_3]: τούτους : those who will receive exports and send imports.
+[^^3_3]: `τούτους`: those who will receive exports and send imports.
 
-[^^3_4]: This rendering, although convenient, hardly represents the Greek, which, literally translated, is “theThis rendering, although convenient,
-hardly represents the Greek, which, literally translated, is “the investigations of those who write about human actions” (cf. ἱστορικός , 4.8). 
+[^^3_4]: This rendering, although convenient, hardly represents the Greek, which, literally translated, is “the investigations of those who write about human actions” (cf. `ἱστορικός` , 4.8). 
 

@@ -5,9 +5,7 @@ and defence. Three things have to be considered; first, the nature and the numbe
 the state of mind of those who so act; thirdly, the character and dispositions of those who are exposed to injustice. We will discuss these
 questions in order, after we have first defined acting unjustly.
 
-Let injustice, then, be defined as voluntarily causing injury contrary to the
-law. Now, the law is particular or general. By particular, I mean the writtenLet injustice, then, be defined as voluntarily causing injury contrary
-to the law. Now, the law is particular or general. By particular, I mean the written law in accordance with which a state is administered; by
+Let injustice, then, be defined as voluntarily causing injury contrary to the law. Now, the law is particular or general. By particular, I mean the written law in accordance with which a state is administered; by
 general, the unwritten regulations which appear to be universally recognized. Men act voluntarily when they know what they do, and do not act under
 compulsion. What is done voluntarily is not always done with premeditation; but what is done with premeditation is always known to the agent, for no
 one is ignorant of what he does with a purpose. [^^9_1] The motives which lead men to do injury and commit wrong actions are depravity and
@@ -66,21 +64,19 @@ obscure nor too precise.
 
 {pagebreak}
 
-[^^9_1]: προαίρεσις (premeditation, deliberate or moral choice) is always voluntary, but all voluntary action is not premeditated; we sometimes act
+[^^9_1]: `προαίρεσις` (premeditation, deliberate or moral choice) is always voluntary, but all voluntary action is not premeditated; we sometimes act
 on the spur of the moment. Choice is a voluntary act, the result of deliberate counsel, including the use of reason and knowledge. In Aristot. Nic.
 Eth. 11 Aristotle defines προαίρεσις as “a deliberate appetition of (longing for, ὄρεξις ) things in our power,” as to which we should necessarily
 be well-informed.
 
-[^^9_2]: Or, “in the matter of ease,” takingOr, “in the matter of ease,” taking τὰ ῥάθυμα as = ῥαθυμία .
+[^^9_2]: Or, “in the matter of ease,” taking `τὰ ῥάθυμα` as = `ῥαθυμία` .
 
-[^^9_3]: In the cases of the young, the poor, and the rich, their youth etc. are onlyIn the cases of the young, the poor, and the rich, their youth
-etc. are only “accidents,” accidental not real causes. Aristotle defines τὸ συμβεβηκός ( Aristot. Met. 4.30 ) as “that which is inherent in
+[^^9_3]: In the cases of the young, the poor, and the rich, their youth etc. are only “accidents,” accidental not real causes. Aristotle defines `τὸ συμβεβηκός` ( Aristot. Met. 4.30 ) as “that which is inherent in
 something, and may be predicated of it as true, but neither necessarily, nor in most cases; for instance, if a man, when digging a hole for a plant,
-finds a treasure.” The color of a man's eyes is an “inseparable” accident, the fact that a man is a lawyer is a “separabIe” accident.
+finds a treasure.” The color of a man's eyes is an “inseparable” accident, the fact that a man is a lawyer is a “separable” accident.
 
-[^^9_4]: Book 2.12-18.Book 2.12-18.
+[^^9_4]: Book 2.12-18.
 
-[^^9_5]: Book 2.2.Book 2.2.
+[^^9_5]: Book 2.2.
 
-[^^9_6]: Cf. Book 1.6 above.Cf. Book 1.6 above. 
-
+[^^9_6]: Cf. Book 1.6 above. 

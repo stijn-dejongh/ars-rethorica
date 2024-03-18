@@ -32,7 +32,7 @@ should be the contents of the exordium or the narrative, or of the other parts o
 the subject; for the only thing to which their attention is devoted is how to put the judge into a certain frame of mind. They give no account of
 the artificial proofs, [^^0_7] which make a man a master of rhetorical argument.
 
-Hence, although the method of deliberative and forensic Rhetori c is the same, and although the pursuit of the former is nobler and more worthy of a
+Hence, although the method of deliberative and forensic Rhetoric is the same, and although the pursuit of the former is nobler and more worthy of a
 statesman than that of the latter, which is limited to transactions between private citizens, they say nothing about the former, but without
 exception endeavor to bring forensic speaking under the rules of art. The reason of this is that in public speaking it is less worth while to talk
 of what is outside the subject, and that deliberative oratory lends itself to trickery less than forensic, because it is of more general
@@ -51,8 +51,7 @@ knowledge of the subjects with which enthymemes deal and the differences between
 resembles it come under the purview of the same faculty, and at the same time men have a sufficient natural capacity for the truth and indeed in
 most cases attain to it; wherefore one who divines well in regard to the truth will also be able to divine well in regard to probabilities. [^^0_12]
 
-It is clear, then, that all other rhetoricians bring under the rules of art what
-is outside the subject,It is clear, then, that all other rhetoricians bring under the rules of art what is outside the subject, and [^^0_13] have
+It is clear, then, that all other rhetoricians bring under the rules of art what is outside the subject, and [^^0_13] have
 rather inclined to the forensic branch of oratory. Nevertheless, Rhetoric is useful, because the true and the just are naturally superior to their
 opposites, so that, if decisions are improperly made, they must owe their defeat to their own advocates; which is reprehensible. Further, in dealing
 with certain persons, even if we possessed the most accurate scientific knowledge, we should not find it easy to persuade them by the employment of
@@ -107,26 +106,26 @@ existence, and only need to be made use of. The former are dealt with in chs. 4-
 
 [^^0_8]: κοινότερον : or, “more intelligible to the ordinary man.”
 
-[^^0_9]: The case as a rule being a matter of personal indifference, the judges are likely to be led away by the arguments whichThe case as a rule
-being a matter of personal indifference, the judges are likely to be led away by the arguments which seem most plausible.
+[^^0_9]: The case as a rule being a matter of personal indifference, the judges are likely to be led away by the arguments which seem most
+plausible.
 
 [^^0_10]: Exact scientific proof (Exact scientific proof ( ἀπόδειξις ), which probable proof ( πίστις ) only to a certain extent resembles.
 
-[^^0_11]: Dialectic here apparently includes logic generally, the “part” being either theDialectic here apparently includes logic generally, the
-“part” being either the Analytica Priori , which deals with the syllogism, or the Sophistici Elenchi , on Fallacies.
+[^^0_11]: Dialectic here apparently includes logic generally, the “part” being either the Analytica Priori , which deals with the syllogism, or the
+Sophistici Elenchi, on Fallacies.
 
 [^^0_12]: ἔνδοξα , “resting on opinion”; defined in the Topics (1.1) as “things generally admitted by all, or by most men, or by the wise, and by
 all or most of these, or by the most notable and esteemed.”
 
-[^^0_13]: διότι either = ὅτι , “that”; or, (it is clear) “why.”
+[^^0_13]: διότι either = ὅτι, “that”; or, (it is clear) “why.”
 
-[^^0_14]: Almost equivalent to demonstration or strictly logical proof.Almost equivalent to demonstration or strictly logical proof.
+[^^0_14]: Almost equivalent to demonstration or strictly logical proof.
 
 [^^0_15]: 1.2. The1.2. The Topics is a treatise in eight books on Dialectic and drawing conclusions from probabilities.
 
-[^^0_16]: The early sophistical definition was “the art of persuasion.”The early sophistical definition was “the art of persuasion.”
+[^^0_16]: The early sophistical definition was “the art of persuasion.”
 
-[^^0_17]: The essence of sophistry consists in the moralThe essence of sophistry consists in the moral purpose, the deliberate use of fallacious
+[^^0_17]: The essence of sophistry consists in the moral purpose, the deliberate use of fallacious
 arguments. In Dialectic, the dialectician has the power or faculty of making use of them when he pleases; when he does so deliberately, he is called
 a sophist. In Rhetoric, this distinction does not exist; he who uses sound arguments as well as he who uses false ones are both known as
 rhetoricians. 

@@ -6,9 +6,8 @@ hearer must necessarily be either a mere spectator or a judge, and a judge eithe
 member of the general assembly is a judge of things to come; the dicast, of things past; the mere spectator, of the ability of the speaker.
 Therefore there are necessarily three kinds of rhetorical speeches, deliberative, forensic, and epideictic.
 
-The deliberative kind is either hortatory or dissuasive; for both those who give
-advice in private and those who speak in the assembly invariably either exhortThe deliberative kind is either hortatory or dissuasive; for both
-those who give advice in private and those who speak in the assembly invariably either exhort or dissuade. The forensic kind is either accusatory or
+The deliberative kind is either hortatory or dissuasive; for both those who give advice in private and those who speak in the assembly invariably
+either exhort or dissuade. The forensic kind is either accusatory or
 defensive; for litigants must necessarily either accuse or defend. The epideictic kind has for its subject praise or blame.
 
 Further, to each of these a special time is appropriate: to the deliberative the future, [^^2_2] for the speaker, whether he exhorts or dissuades,
@@ -52,16 +51,16 @@ spectator as a “critic”), although strictly κριτής should be limited t
 [^^2_2]: In 1.6.I and 8.7 the present is also mentioned as a time appropriate to deliberative Rhetoric.In 1.6.I and 8.7 the present is also
 mentioned as a time appropriate to deliberative Rhetoric.
 
-[^^2_3]: The omission ofThe omission of οὐκ before ἄδικον has been suggested. The sense would then be: “As to the injustice of enslaving . . . he is
+[^^2_3]: The omission of `οὐκ` before `ἄδικον` has been suggested. The sense would then be: “As to the injustice of enslaving . . . he is
 quite indifferent.” There is no doubt a reference to the cruel treatment by Athens of the inhabitants of the island of Melos ( 416 B.C.) for its
 loyalty to the Spartans during the Peloponnesian war ( Thuc. 5.84-116 ). The Athenian envoys declined to discuss the question of right or wrong,
 which they said was only possible between equal powers, and asserted that expediency was the only thing that had to be considered. The question of
 justice or injustice (in the Melian case entirely disregarded), even when taken into account, was merely accessory and intended to serve as a
 specious justification for the policy of might.
 
-[^^2_4]: To protect his body and avenge his death (To protect his body and avenge his death ( Hom. Il. 18 .).
+[^^2_4]: To protect his body and avenge his death ( Hom. Il. 18 .).
 
-[^^2_5]: The expedient, the just, the honorable, and their contraries.The expedient, the just, the honorable, and their contraries.
+[^^2_5]: The expedient, the just, the honorable, and their contraries.
 
-[^^2_6]: ὅλως : or, reading ὅλος , “the syllogism as a whole.” 
+[^^2_6]: `ὅλως` : or - reading `ὅλος` - “the syllogism as a whole.” 
 

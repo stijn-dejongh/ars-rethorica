@@ -12,8 +12,7 @@ habit makes them pleasant. Things contrary to these are pleasant; wherefore stat
 and sleep are among pleasant things, because none of these is in any way compulsory. Everything of which we have in us the desire is pleasant, for
 desire is a longing for the pleasant.
 
-Now, of desires some are irrational, others rational. I call irrational all those
-that are not the result of anyNow, of desires some are irrational, others rational. I call irrational all those that are not the result of any
+Now, of desires some are irrational, others rational. I call irrational all those that are not the result of any
 assumption. [^^10_4] Such are all those which are called natural; for instance, those which come into existence through the body—such as the desire
 of food, thirst, hunger, the desire of such and such food in particular; the desires connected with taste, sexual pleasures, in a word, with touch,
 smell, hearing, and sight. I call those desires rational which are due to our being convinced; for there are many things which we desire to see or
@@ -85,21 +84,21 @@ the contraries of these.
 
 {pagebreak}
 
-[^^10_1]: The true nature of the “normalThe true nature of the “normal state” was lost during the period of disturbance and unsettlement.
+[^^10_1]: The true nature of the “normal state” was lost during the period of disturbance and unsettlement.
 
-[^^10_2]: From Evenus ofFrom Evenus of Paros (Frag. 8, P.L.G. 2.): see Introd.
+[^^10_2]: From Evenus of Paros (Frag. 8, P.L.G. 2.): see Introd.
 
 [^^10_3]: Or “rest” (bodily).Or “rest” (bodily).
 
-[^^10_4]: There is no consideration orThere is no consideration or “definite theory” (Jebb, Welldon) of the results that may follow. The desires
+[^^10_4]: There is no consideration or “definite theory” (Jebb, Welldon) of the results that may follow. The desires
 arise without anything of the kind; they simply come.
 
-[^^10_5]: The passageThe passage ἐπεὶ δ᾽ ἐστὶ . . . αἴσθησις has been punctuated in two ways. (1) With a full stop at ἐλπίζει (Roemer, Jebb). The
+[^^10_5]: The passage `ἐπεὶ δ᾽ ἐστὶ . . . αἴσθησις` has been punctuated in two ways. (1) With a full stop at `ἐλπίζει` (Roemer, Jebb). The
 conclusion then drawn is that memory and hope are accompanied by imagination of what is remembered or hoped. To this it is objected that what
-Aristotle really wants to prove is that memory and hope are a cause of pleasure. (2) With a comma at ἐλπίζει (Cope, Victorius). The steps in the
+Aristotle really wants to prove is that memory and hope are a cause of pleasure. (2) With a comma at `ἐλπίζει` (Cope, Victorius). The steps in the
 argument will then be: if pleasure is the sensation of a certain emotion; if imagination is a weakened (faded) sensation; if one who remembers or
 hopes is attended by an imagination of what he remembers or hopes; then, this being so, pleasure will attend one who remembers or hopes, since there
-is sensation, and pleasure is sensation and a kind of movement (sect. 1). φαντασία , the faculty of forming mental images (variously translated
+is sensation, and pleasure is sensation and a kind of movement (sect. 1). `φαντασία` , the faculty of forming mental images (variously translated
 “imagination,” “mental impression,” “fantasy”) is defined by Aristotle ( Aristot. De Anima 3.3.11 ) as a kind of movement , which cannot arise apart
 from sensation, and the movement produced must resemble the sensation which produced it. But φαντασία is more than this; it is not merely a faculty
 of sense, but occupies a place midway between sense and intellect; while imagination has need of the senses, the intellect has need of imagination.
@@ -113,35 +112,33 @@ intellect. (See Cope here, and R. D. Hicks in his edition of the De Anima .)
 
 [^^10_8]: Hom. Il. 18.109 .
 
-[^^10_9]: Or “doing something that has to do with the beloved.”Or “doing something that has to do with the beloved.”
+[^^10_9]: Or “doing something that has to do with the beloved.”
 
 [^^10_10]: Hom. Il. 23.108 , on the occasion of the mourning for Patroclus; Hom. Od. 4.183 , referring to the mourning for the absence of Odysseus.
 
 [^^10_11]: Controversiae or school rhetorical exercises, as well as arguing in the law courts; unless ἐριστικάς means simply “in which there is
 rivalry.”
 
-[^^10_12]: For the meaning ofFor the meaning of φιλία, φιλεῖν cf. Book 2.4.
+[^^10_12]: For the meaning of φιλία, φιλεῖν cf. Book 2.4.
 
 [^^10_13]: Eur. Orest. 234 .
 
-[^^10_14]: True knowledge or philosophy, which is the result of learning, is the highest condition of the intellect, its normal orTrue knowledge or
-philosophy, which is the result of learning, is the highest condition of the intellect, its normal or settled state. Consequently, a return to this
+[^^10_14]: True knowledge or philosophy, which is the result of learning, is the highest condition of the intellect, its normal or settled state. Consequently, a return to this
 is pleasure, which is defined (11.1) as a settling down of the soul into its natural state after a period of disturbance.
 
-[^^10_15]: Or, “larger means than the person benefited.”Or, “larger means than the person benefited.”
+[^^10_15]: Or, “larger means than the person benefited.”
 
-[^^10_16]: Hom. Od. 17.218 ὡς αἰεὶ τὸν ὁμοῖον ἄγει θεὸς ὡς τὸν ὁμοῖον .
+[^^10_16]: Hom. Od. 17.218 `ὡς αἰεὶ τὸν ὁμοῖον ἄγει θεὸς ὡς τὸν ὁμοῖον` .
 
-[^^10_17]: Literally, “ever jackdaw to jackdaw.”Literally, “ever jackdaw to jackdaw.”
+[^^10_17]: Literally, “ever jackdaw to jackdaw.”
 
-[^^10_18]: Of likeness and kinship.Of likeness and kinship.
+[^^10_18]: Of likeness and kinship.
 
 [^^10_19]: 11.22.11.22.
 
-[^^10_20]: Both practically and speculatively orBoth practically and speculatively or philosophically.
+[^^10_20]: Both practically and speculatively or philosophically.
 
 [^^10_21]: Antiope (Frag. 183, T.G.F. ).
 
-[^^10_22]: Only the definition appears in the existing text; “The ridiculous is anOnly the definition appears in the existing text; “The ridiculous
-is an error, painless and non-destructive ugliness ( Aristot. Poet. 5 ).” 
+[^^10_22]: Only the definition appears in the existing text; “The ridiculous is an error, painless and non-destructive ugliness ( Aristot. Poet. 5 ).” 
 

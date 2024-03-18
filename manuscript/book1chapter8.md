@@ -28,10 +28,9 @@ of government, so far as was within the scope of the present occasion; for the s
 
 {pagebreak}
 
-[^^7_1]: The pronouncements of the supreme authority are themselves authoritative asThe pronouncements of the supreme authority are themselves
-authoritative as laying down laws and regulations for the citizens.
+[^^7_1]: The pronouncements of the supreme authority are themselves authoritative as laying down laws and regulations for the citizens.
 
-[^^7_2]: The “end” of monarchy is wantingThe “end” of monarchy is wanting here.
+[^^7_2]: The “end” of monarchy is wanting here.
 
 [^^7_3]: Aristot. Pol. 3.7 . 
 
