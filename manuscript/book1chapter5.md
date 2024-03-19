@@ -1,10 +1,21 @@
-# Chapter 5
+# Chapter 5: What people care about
 
 Men, individually and in common, nearly all have some aim, in the attainment of which they choose or avoid certain things. This aim, briefly stated,
 is happiness and its component parts. Therefore, for the sake of illustration, let us ascertain what happiness, generally speaking, is, and what its
 parts consist in; for all who exhort or dissuade discuss happiness and the things which conduce or are detrimental to it. For one should do the
 things which procure happiness or one of its parts, or increase instead of diminishing it, and avoid doing those things which destroy or hinder it
 or bring about what is contrary to it.
+
+{blurb, icon: pencil}
+**editor's note:** The concept of happiness is central to Aristotle's work. He uses it here to deepen the reader's understanding of deliberative 
+rhetoric, as it is the goal of the speaker to convince the audience that their advice will be beneficial to their happiness.
+This chapter is in part a continuation of the previous chapter, and in part Aristotle going on a tangent. In his ramblings on ethics, he takes the 
+time to insult the Spartans, and share his view on women's place in society. He will return to the main topic after a few chapters. 
+
+If you do not particularly care for his musings, you can skip to [#f].
+As the next chapters give a good insight into the mind of the ancient Greeks, and their ethics, I would advise you to revisit them before 
+continuing to the next book. 
+{/blurb}
 
 Let us then define happiness as well-being combined with virtue, or independence of life, or the life that is most agreeable combined with security,
 or abundance of possessions and slaves, [^^4_1] combined with power to protect and make use of them [^^4_2] ; for nearly all men admit that one or

@@ -1,4 +1,5 @@
-# Chapter 9
+{#epideoctoc-rethoric}
+# Chapter 9: Epideictic Rhetoric, virtue and vice
 
 We will next speak of virtue and vice, of the noble and the disgraceful, since they constitute the aim of one who praises and of one who blames;
 for, when speaking of these, we shall incidentally bring to light the means of making us appear of such and such a character, which, as we have
@@ -127,7 +128,7 @@ accordingly.
 
 [^^8_9]: That is, `τὸ τίμιον` looks as if it were really `καλόν`, and should be spoken as if it were so.
 
-[^^8_10]: Cp. 7.32 above.Cp. 7.32 above.
+[^^8_10]: Cp. 7.32 above.
 
 [^^8_11]: Frag. 111 ( P.L.G. 3.).
 

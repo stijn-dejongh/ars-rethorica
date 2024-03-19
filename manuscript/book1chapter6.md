@@ -1,4 +1,9 @@
-# Chapter 6
+# Chapter 6: The greater good, and its components
+
+{blurb, icon: pencil}
+**editor's note:** this is a continuation of the previous chapter, where Aristotle discusses Ethics, and tries to formalize the idea of 
+*"goodness"*.
+{/blurb}
 
 It is evident, then, what things, likely to happen or already existing, the orator should aim at, when exhorting, and what when dissuading; for they
 are opposites. But since the aim before the deliberative orator is that which is expedient, and men deliberate, not about the end, but about the

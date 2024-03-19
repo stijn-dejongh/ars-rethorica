@@ -1,4 +1,5 @@
-# Chapter 8
+{#authority-and-governments}
+# Chapter 8: Types of Governments
 
 These are nearly all the topics from which arguments may be drawn in persuading and dissuading; but the most important and effective of all the
 means of persuasion and good counsel is to know all the forms of government and to distinguish the manners and customs, institutions, and interests

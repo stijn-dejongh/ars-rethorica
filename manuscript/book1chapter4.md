@@ -1,4 +1,4 @@
-# Chapter 4
+# Chapter 4: Topics of deliberative rhetoric
 
 We must first ascertain about what kind of good or bad things the deliberative orator advises, since he cannot do so about everything, but only
 about things which may possibly happen or not. Everything which of necessity either is or will be, or which cannot possibly be or come to pass, is
@@ -14,7 +14,7 @@ true [^^3_1] : that Rhetoric is composed of analytical science and of that branc
 resembles partly Dialectic and partly sophistical arguments. But in proportion as anyone endeavors to make of Dialectic or Rhetoric, not what they
 are, faculties, but sciences, to that extent he will, without knowing it, destroy their real nature, in thus altering their character, by crossing
 over into the domain of sciences [^^3_2] , whose subjects are certain definite things, not merely words. Nevertheless, even at present we may
-mention such matters as it is worth while to analyze, while still leaving much for political science to investigate.
+mention such matters as it is worthwhile to analyze, while still leaving much for political science to investigate.
 
 Now, we may say that the most important subjects about which all men deliberate and deliberative orators harangue, are five in number, to
 wit: ways and means, war and peace, the defence of the country, imports and exports, legislation.
@@ -66,5 +66,6 @@ used absolutely) while altering their characters from faculties to sciences.”
 
 [^^3_3]: `τούτους`: those who will receive exports and send imports.
 
-[^^3_4]: This rendering, although convenient, hardly represents the Greek, which, literally translated, is “the investigations of those who write about human actions” (cf. `ἱστορικός` , 4.8). 
+[^^3_4]: This rendering, although convenient, hardly represents the Greek, which, literally translated, is *“the investigations of those who 
+write about human actions”* (cf. `ἱστορικός` , 4.8). 
 

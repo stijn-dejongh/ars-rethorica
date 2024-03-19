@@ -1,4 +1,5 @@
-# Chapter 7
+{#trade-offs}
+# Chapter 7: The Impact of actions and trade-offs
 
 But since men often agree that both of two things are useful, but dispute which is the more so, we must next speak of the greater good and the more
 expedient. Let one thing, then, be said to exceed another, when it is as great and something more—and to be exceeded when it is contained in the

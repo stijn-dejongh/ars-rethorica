@@ -11,6 +11,11 @@ The deliberative kind is either hortatory or dissuasive; for both those who give
 either exhort or dissuade. The forensic kind is either accusatory or defensive; for litigants must necessarily either accuse or defend. The
 epideictic kind has for its subject praise or blame.
 
+{blurb, icon: pencil}
+**editor's note:** When you read the word *"end"* in Aristotle's writings, it usually means *"goal"* or *"purpose"*.
+Similarly, interpret usage of *"time"* as *"verb tense"*. 
+{/blurb}
+
 Further, to each of these a special time is appropriate: to the deliberative the future, [^^2_2] for the speaker, whether he exhorts or dissuades,
 always advises about things to come; to the forensic the past, for it is always in reference to things done that one party accuses and the other
 defends; to the epideictic most appropriately the present, for it is the existing condition of things that all those who praise or blame have in
@@ -46,8 +51,7 @@ deliberative, epideictic, and forensic, are concerned with.
 
 {pagebreak}
 
-[^^2_1]: All three kinds of hearers are regarded as judges (the mere spectator as aAll three kinds of hearers are regarded as judges (the mere
-spectator as a “critic”), although strictly κριτής should be limited to the law courts.
+[^^2_1]: All three kinds of hearers are regarded as judges (the mere spectator as a “critic”), although strictly κριτής should be limited to the law courts.
 
 [^^2_2]: In 1.6.1 and 8.7 the present is also mentioned as a time appropriate to deliberative Rhetoric.
 
