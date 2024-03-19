@@ -20,7 +20,7 @@ These notes are placed in a separate block, and are denoted with an icon that lo
 **editor's note:** When you read the term "end", it usually refers to "goal" or "purpose". Similar to its use in the adage *"The end justifies
 the means"*, which happens to appear in this book.
 
-{blurb}
+{/blurb}
 
 Where applicable, I have added a title to the chapters, to make it easier to navigate the book.
 These titles are not part of the original text, as the ancients did not use titles in their writings, but used incremental numbers to keep
@@ -44,37 +44,37 @@ are already familiar with."*
 **Orator**
 : (syn. speaker, rhetorician, public speaker)
 : Someone who speaks publicly, either to a crowd, a general assembly, or in a court of law. The term "orator" is mostly used for those skilled in
-the art of persuasion, but in essence, it refers to anyone who speaks on formal occasions.
+    the art of persuasion, but in essence, it refers to anyone who speaks on formal occasions.
 
 **Sophist**
 : (syn. tutor, teacher, mentor, moralist)
 : A paid theacher of philisophy, rethoric, and science in the ancient Hellenistic world. Sophists are assosiated with teaching other how to argue
-live a virtuous life, and how to be a good citizen. They were often criticized for their relativistic views on truth and morality, and for
-*"having their heads in the clouds"*.
+    live a virtuous life, and how to be a good citizen. They were often criticized for their relativistic views on truth and morality, and for
+    *"having their heads in the clouds"*.
 
 **Dialectic**
 : (syn. debate, argumentation, logical reasoning)
 : The art of investigating or discussing the truth of opinions. It is a method of argument, using logical reasoning and questioning, that has
-been the foundation of future scientific and legal methods.
+    been the foundation of future scientific and legal methods.
 
 **Syllogism**
 : a form of reasoning aimed at drawing a conclusion from two propositions that share a common subject. The conclusion is valid if both of the
-propositions are accurate. This is a rudimentary form of logical reasoning, stating `A & B -> C` where `A` and `B` are premises, and `C` is the
-conclusion. Modern logical theory teaches us to interpret this as: *"either `C` is true, or `A & B` is false"*, which is slightly different to
-the classical interpretation of the form.
+    propositions are accurate. This is a rudimentary form of logical reasoning, stating `A & B -> C` where `A` and `B` are premises, and `C` is the
+    conclusion. Modern logical theory teaches us to interpret this as: *"either `C` is true, or `A & B` is false"*, which is slightly different to
+    the classical interpretation of the form.
 : example 1: *all men are mortal. Socrates is a man. Therefore, Socrates is mortal.*
 : example 2: *all dogs are animals. All animals have four legs. Therefore, all dogs have four legs.* (in this example, the second premise is
-incorrect, as there are animals with less than four legs)
+    incorrect, as there are animals with less than four legs)
 
 **Enthymeme**
 : a form of syllogism, where one of the premises is not stated, but is implied. This is a form of argumentation that is often used in rhetoric,
-as the speaker can rely on the audience to fill in the missing premise. This makes the argument more persuasive, provided the audience has
-sufficient knowledge to fill in the gaps.
+    as the speaker can rely on the audience to fill in the missing premise. This makes the argument more persuasive, provided the audience has
+    sufficient knowledge to fill in the gaps.
 
 **Dicast**
 : (syn. judge, juror, magistrate, official)
 : A member of a jury in ancient Athens. The dicasts were selected by lot, and were paid for their service. The term is used to indicate someone
-who holds a formal position, and is asked to render judgement on a (legal) matter. The modern term "judge" is used in the text to indicate
-someone who forms an opinion on a matter, without the connotation of them being in a formal position of power.
+    who holds a formal position, and is asked to render judgement on a (legal) matter. The modern term "judge" is used in the text to indicate
+    someone who forms an opinion on a matter, without the connotation of them being in a formal position of power.
 
 {pagebreak}
