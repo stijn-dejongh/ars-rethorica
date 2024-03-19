@@ -28,10 +28,13 @@ Following changes are known:
 ### Added
 
 - this changelog file
+- introduction to book I, explaining some of the more obscure references and stylistic choices
+- description of the editorial actions taken to make the book more accessible
 
 ### Changed
 
-- Fix conversion errors in the book's content in chapters 1 through 3
+- Fix conversion errors in the book's content in chapters 1 through 10
+- Clean up some of the formatting
 
 ## First published version
 
@@ -39,7 +42,7 @@ Following changes are known:
 
 ### Added
 
-- Books 1 through 3 of Aristotle's Rhetoric, translated by J.H. Freese.
+- Books 1 through 3 of Aristotle's Rhetoric, interpreted by J.H. Freese.
 - Introduction to the book, and a rudimentary reading guide
 - License and accreditation of the original authors.
 - Cover image (cc Dejongh Stijn, 2024)

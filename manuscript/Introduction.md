@@ -5,7 +5,7 @@
 # License
 
 This book is based on the work performed by J.H. Freese for the [Perseus Project](http://www.perseus.tufts.edu/hopper) by the department of
-classical studies of Tufts University. The original work is licensed under the Creative Commons Attribution-NonCommercial 3.0 International License.
+classical studies of Tufts University. The original work is licensed under the Creative Commons Attribution-ShareAlike 3.0 International License.
 To keep the spirit of the original publication, this derivative work is licensed under the updated version of the same license.
 
 ## The perseus project
@@ -43,7 +43,7 @@ participate in the political debate, by speaking to the assembly of citizens.
 As such, the oratory arts were highly valued, and the works of Aristotle influenced many public speakers, and philosophers, in the ancient world.
 The original work was written in ancient greek, and translated into Latin by Roman philosophers.
 
-Aristotle's works have been translated multiple times, both from the original Greek and it's contemporary Latin translations.
+Aristotle's works have been translated multiple times, both from the original Greek and its contemporary Latin translations.
 This derivative work is based on the translation by J.H. Freese, in 1926, which is in the public domain.
 Freese's translation was uploaded to the Perseus Hopper, and contains notes collected from other translations.  
 Most notably, the translation notes by E. M. Cope (1877), and W.D. Ross (1959).
@@ -51,7 +51,7 @@ Most notably, the translation notes by E. M. Cope (1877), and W.D. Ross (1959).
 You can find the full translation by J.H. Freese on the Perseus Hopper,
 at [http://www.perseus.tufts.edu/hopper](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0060).
 
-For more background information of Artisto's Rhetoric, you can visit the [Wikipedia page](https://en.wikipedia.org/wiki/Rhetoric_(Aristotle)).
+For more background information of Artistotle's Rhetoric, you can visit the [Wikipedia page](https://en.wikipedia.org/wiki/Rhetoric_(Aristotle)).
 
 {pagebreak}
 
