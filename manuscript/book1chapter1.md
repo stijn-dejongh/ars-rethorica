@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1: What is the point of Rhetoric?
 
 Rhetoric is a counterpart [^^0_1] of Dialectic; for both have to do with matters that are in a manner within the cognizance of all men and not
 confined [^^0_2] to any special science. Hence all men in a manner have a share of both; for all, up to a certain point, endeavor to criticize or
@@ -31,6 +31,14 @@ impossible for the legislator to foresee such questions. If this is so, it is ob
 should be the contents of the exordium or the narrative, or of the other parts of the discourse, are bringing under the rules of art what is outside
 the subject; for the only thing to which their attention is devoted is how to put the judge into a certain frame of mind. They give no account of
 the artificial proofs, [^^0_7] which make a man a master of rhetorical argument.
+
+{blurb, icon: pencil}
+
+**editor's note:** Even though the different types of rhetoric (deliberative, forensic, and epideictic) are introduced and explained in 
+[#t](#types-of-rhetoric), Aristotle assumes the reader is already vaguely familiar with these terms.
+see [#f](#book-one-glossary)
+
+{/blurb}
 
 Hence, although the method of deliberative and forensic Rhetoric is the same, and although the pursuit of the former is nobler and more worthy of a
 statesman than that of the latter, which is limited to transactions between private citizens, they say nothing about the former, but without
@@ -76,31 +84,24 @@ what makes the sophist is not the faculty but the moral purpose. But there is a 
 argument, and one who acts in accordance with moral purpose, are both called rhetoricians; but in Dialectic it is the moral purpose that makes the
 sophist, the dialectician being one whose arguments rest, not on moral purpose but on the faculty. [^^0_17]
 
-Let us now endeavor to treat of the method itself, to see how and by what means
-we shall be able to attain our objects. And so let us as it were start again,Let us now endeavor to treat of the method itself, to see how and by
-what means we shall be able to attain our objects. And so let us as it were start again, and having defined Rhetoric anew, pass on to the remainder
-of the subject.
+Let us now endeavor to treat of the method itself, to see how and by what means we shall be able to attain our objects. And so let us as it were
+start again, and having defined Rhetoric anew, pass on to the remainder of the subject.
 
 {pagebreak}
 
-[^^0_1]: Not an exact copy, but making a kind of pair with it, and corresponding to it as the antistrophe to theNot an exact copy, but making a kind
-of pair with it, and corresponding to it as the antistrophe to the strophe in a choral ode.
+[^^0_1]: Not an exact copy, but making a kind of pair with it, and corresponding to it as the antistrophe to the strophe in a choral ode.
 
-[^^0_2]: Or “and they (Rhetoric and Dialectic) are notOr “and they (Rhetoric and Dialectic) are not confined.”
+[^^0_2]: Or *“and they (Rhetoric and Dialectic) are not confined.”*
 
-[^^0_3]: The special characteristic of an art is the discovery of a system or method, as distinguished from mere knack (The special characteristic
-of an art is the discovery of a system or method, as distinguished from mere knack ( ἐμπειρία ).
+[^^0_3]: The special characteristic of an art is the discovery of a system or method, as distinguished from mere knack ( ἐμπειρία ).
 
-[^^0_4]: Manuals or handbooks treating of the rules of any art or science.Manuals or handbooks treating of the rules of any art or science.
+[^^0_4]: Manuals or handbooks treating of the rules of any art or science.
 
-[^^0_5]: His functions were a combination of those of the modern judge and juryman.His functions were a combination of those of the modern judge and
-juryman.
+[^^0_5]: His functions were a combination of those of the modern judge and juryman.
 
-[^^0_6]: That is, forbid speaking of matters that have nothing to do with the case.That is, forbid speaking of matters that have nothing to do with
-the case.
+[^^0_6]: That is, forbid speaking of matters that have nothing to do with the case.
 
-[^^0_7]: Systematic logical proofs (enthymeme, for example), including testimony as to character and appeals toSystematic logical proofs (enthymeme,
-for example), including testimony as to character and appeals to the emotions (2.3), which the rhetorician has to invent ( εὑρεῖν , inventio ) for
+[^^0_7]: Systematic logical proofs (enthymeme, for example), including testimony as to character and appeals to the emotions (2.3), which the rhetorician has to invent ( εὑρεῖν , inventio ) for
 use in particular cases. They are contrasted with “inartificial” proofs, which have nothing to do with the rules of the art, but are already in
 existence, and only need to be made use of. The former are dealt with in chs. 4-14, the latter in ch. 15 of this book.
 
@@ -109,21 +110,21 @@ existence, and only need to be made use of. The former are dealt with in chs. 4-
 [^^0_9]: The case as a rule being a matter of personal indifference, the judges are likely to be led away by the arguments which seem most
 plausible.
 
-[^^0_10]: Exact scientific proof (Exact scientific proof ( ἀπόδειξις ), which probable proof ( πίστις ) only to a certain extent resembles.
+[^^0_10]: Exact scientific proof ( `ἀπόδειξις` ), which probable proof ( `πίστις` ) only to a certain extent resembles.
 
 [^^0_11]: Dialectic here apparently includes logic generally, the “part” being either the Analytica Priori , which deals with the syllogism, or the
 Sophistici Elenchi, on Fallacies.
 
-[^^0_12]: ἔνδοξα , “resting on opinion”; defined in the Topics (1.1) as “things generally admitted by all, or by most men, or by the wise, and by
-all or most of these, or by the most notable and esteemed.”
+[^^0_12]: `ἔνδοξα`, “resting on opinion”; defined in the Topics (1.1) as *“things generally admitted by all, or by most men, or by the wise, and by
+all or most of these, or by the most notable and esteemed.”*
 
-[^^0_13]: διότι either = ὅτι, “that”; or, (it is clear) “why.”
+[^^0_13]: `διότι` either = `ὅτι`, “that”; or, (it is clear) “why.”
 
 [^^0_14]: Almost equivalent to demonstration or strictly logical proof.
 
 [^^0_15]: 1.2. The1.2. The Topics is a treatise in eight books on Dialectic and drawing conclusions from probabilities.
 
-[^^0_16]: The early sophistical definition was “the art of persuasion.”
+[^^0_16]: The early sophistical definition was *“the art of persuasion.”*
 
 [^^0_17]: The essence of sophistry consists in the moral purpose, the deliberate use of fallacious
 arguments. In Dialectic, the dialectician has the power or faculty of making use of them when he pleases; when he does so deliberately, he is called

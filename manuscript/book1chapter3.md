@@ -1,4 +1,5 @@
-# Chapter 3
+{#types-of-rhetoric}
+# Chapter 3: Types of Rhetoric
 
 The kinds of Rhetoric are three in number, corresponding to the three kinds of hearers. For every speech is composed of three parts: the speaker,
 the subject of which he treats, and the person to whom it is addressed, I mean the hearer, to whom the end or object of the speech refers. Now the
@@ -7,8 +8,8 @@ member of the general assembly is a judge of things to come; the dicast, of thin
 Therefore there are necessarily three kinds of rhetorical speeches, deliberative, forensic, and epideictic.
 
 The deliberative kind is either hortatory or dissuasive; for both those who give advice in private and those who speak in the assembly invariably
-either exhort or dissuade. The forensic kind is either accusatory or
-defensive; for litigants must necessarily either accuse or defend. The epideictic kind has for its subject praise or blame.
+either exhort or dissuade. The forensic kind is either accusatory or defensive; for litigants must necessarily either accuse or defend. The
+epideictic kind has for its subject praise or blame.
 
 Further, to each of these a special time is appropriate: to the deliberative the future, [^^2_2] for the speaker, whether he exhorts or dissuades,
 always advises about things to come; to the forensic the past, for it is always in reference to things done that one party accuses and the other
@@ -48,8 +49,7 @@ deliberative, epideictic, and forensic, are concerned with.
 [^^2_1]: All three kinds of hearers are regarded as judges (the mere spectator as aAll three kinds of hearers are regarded as judges (the mere
 spectator as a “critic”), although strictly κριτής should be limited to the law courts.
 
-[^^2_2]: In 1.6.I and 8.7 the present is also mentioned as a time appropriate to deliberative Rhetoric.In 1.6.I and 8.7 the present is also
-mentioned as a time appropriate to deliberative Rhetoric.
+[^^2_2]: In 1.6.1 and 8.7 the present is also mentioned as a time appropriate to deliberative Rhetoric.
 
 [^^2_3]: The omission of `οὐκ` before `ἄδικον` has been suggested. The sense would then be: “As to the injustice of enslaving . . . he is
 quite indifferent.” There is no doubt a reference to the cruel treatment by Athens of the inhabitants of the island of Melos ( 416 B.C.) for its
