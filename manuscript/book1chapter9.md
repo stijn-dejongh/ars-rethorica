@@ -1,5 +1,5 @@
-{#epideoctoc-rethoric}
-# Chapter 9: Epideictic Rhetoric, virtue and vice
+{#epideictic-rethoric}
+# Chapter 9: Epideictic Rhetoric, praise and blame, virtue and vice
 
 We will next speak of virtue and vice, of the noble and the disgraceful, since they constitute the aim of one who praises and of one who blames;
 for, when speaking of these, we shall incidentally bring to light the means of making us appear of such and such a character, which, as we have

@@ -1,4 +1,5 @@
 {#trade-offs}
+
 # Chapter 7: The Impact of actions and trade-offs
 
 But since men often agree that both of two things are useful, but dispute which is the more so, we must next speak of the greater good and the more
@@ -38,6 +39,20 @@ Leodamas, when accusing Callistratus, [^^6_5] declared that the man who had give
 he had not suggested it, it could not have been carried out. And conversely, when accusing Chabrias, he declared that the man who had carried out
 the advice was more guilty than the one who had given it; for it could not have been carried out, had there not been some one to do so, and the
 reason why people devised plots was that others might carry them out.
+
+{blurb, icon: pencil}
+**editor's note:** Aristotle is analyzing the characteristics of actions and items that make them more severe or more desirable.
+In doing so, he aims to provide a framework for determining the relative value of different options. 
+
+The example of *"Leodamas accusing Callistratus"* is used to illustrate how your point of view can change the perceived guilt of an action. He intentionally argues the point from 
+both sides, contradicting himself, to show that there is no absolute answer. This ties in nicely to the concepts of "trade-offs", "context", and "mitigating 
+circumstances" in modern times. It also strengthens the argument that rhetoric is most useful in those cases where there is a gray zone, either 
+legally or morally.
+
+Aristotle, being a philosopher, seems to want to teach the reader how to think critically about these matters, and how to form arguments based 
+on a few universal - almost mathematical - principles. The rest of the chapter expands on these principles, and Aristotle will talk us through 
+various other ways to determine the "greater good" or the "lesser evil".
+{/blurb}
 
 And that which is scarcer is a greater good than that which is abundant, as gold than iron, although it is less useful, but the possession of it is
 more valuable, since it is more difficult of acquisition. From another point of view, that which is abundant is to be preferred to that which is
@@ -83,7 +98,6 @@ greater. And the same whole when divided into parts appears greater, for there a
 Whence the poet says that Meleager was persuaded to rise up and fight by the recital of [^^6_10] All the ills that befall those whose city is taken;
 the people perish, and fire utterly destroys the city, and strangers carry off the children.
 
-Combination and building up, as employed by Epicharmus,
 Combination and building up, as employed by Epicharmus, [^^6_11] produce the same effect as division, and for the same reason; for combination is an
 exhibition of great superiority and appears to be the origin and cause of great things. And since that which is harder to obtain and scarcer is
 greater, it follows that special occasions, ages, places, times, and powers, produce great effects; for if a man does things beyond his powers,
@@ -114,15 +128,14 @@ injury; [^^6_18] for in the former case, a man has been deprived of that which h
 {pagebreak}
 
 [^^6_1]: The one, the smaller number, and the greater number must be of the same species. Thus, 5 pounds is a greater good than 2 pounds; but 5
-farthings is not a greater good
-than 2 pounds, since the smaller number is not reckoned in with the greater Buckley .
+farthings is not a greater good than 2 pounds, since the smaller number is not reckoned in with the greater Buckley .
 
 [^^6_2]: If B (life) follows on, is the consequent of A (health), but A is not the consequent of B, then A is a greater good than B.
 
-[^^6_3]: Eight is greater than 2 by 6, which itself is greater than 2.Eight is greater than 2 by 6, which itself is greater than 2.
+[^^6_3]: .Eight is greater than 2 by 6, which itself is greater than 2.
 
-[^^6_4]: A thing may be of greater importance in two ways: (a) that which
-is a first principle is superior to that which is not; (b) that which is not a first principle, but an end, is superior to that which is a first
+[^^6_4]: A thing may be of greater importance in two ways: (a) that which is a first principle is superior to that which is not; (b) that which is
+not a first principle, but an end, is superior to that which is a first
 principle; for the end is superior to the means. In the illustration that follows: (a) the first principle (suggesting the plot) is said to be of
 more importance (worse) than the end or result (carrying out the plot); (b) on the other hand, this end is said to be worse than the first
 principle, since the end is superior to the means. Thus the question of the amount of guilt can be argued both ways.
@@ -134,10 +147,9 @@ Athenian orator, pupil of Isocrates, and pro-Theban in his political views.
 
 [^^6_6]: Pind. O. 1.1 .
 
-[^^6_7]: e.g. it is worse to be blind than deaf; therefore sight is better than hearinge.g. it is worse to be blind than deaf; therefore sight is
-better than hearing (Schrader).
+[^^6_7]: e.g. it is worse to be blind than deaf; therefore sight is better than hearing (Schrader).
 
-[^^6_8]: “Things of which the prices are greater, price“Things of which the prices are greater, price being a sort of worth” (Jebb).
+[^^6_8]: *“Things of which the prices are greater, price being a sort of worth”* (Jebb).
 
 [^^6_9]: Or, “superiority over a greater number of things.”
 

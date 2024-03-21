@@ -15,13 +15,20 @@ prescribes, and who must of necessity appear best, whence this form of governmen
 alone is supreme over all; if it is subject to certain regulations, it is called a kingdom; if it is unlimited, a tyranny.
 
 Nor should the end of each form of government be neglected, for men choose the things which have reference to the end. Now, the end of democracy is
-liberty, of oligarchy wealth, of aristocracy things relating to education and what the law prescribes, . . . , [^^7_2] of tyranny self-protection.
+liberty, of oligarchy wealth, of aristocracy things relating to education and what the law prescribes, ... , [^^7_2] of tyranny self-protection.
 It is clear then that we must distinguish the manners and customs, institutions, and interests of each form of government, since it is in reference
 to this that men make their choice. But as proofs are established not only by demonstrative, but also by ethical argument—since we have confidence
 in an orator who exhibits certain qualities, such as goodness, goodwill, or both—it follows that we ought to be acquainted with the characters of
 each form of government; for, in reference to each, the character most likely to persuade must be that which is characteristic of it. These
 characters will be understood by the same means; for characters reveal themselves in accordance with moral purpose, and moral purpose has reference
 to the end.
+
+{blurb, icon: pencil}
+**editor's note:** The idea that "the speaker must instill authority, trustworthiness, and confidence in the audience" is repeated multiple 
+times in this book. Aristotle believed that the (perceived) character of the speaker helped bring their message across. In this chapter, he 
+walked us through the different forms of authority, and what each of them tend to favor. The overarching advice being: *"Know your audience and 
+their context, and act accordingly"*. 
+{/blurb}
 
 We have now stated what things, whether future or present, should be the aim of those who recommend a certain course; from what topics they should
 derive their proofs of expediency; further, the ways and means of being well equipped for dealing with the characters and institutions of each form
@@ -34,4 +41,3 @@ of government, so far as was within the scope of the present occasion; for the s
 [^^7_2]: The “end” of monarchy is wanting here.
 
 [^^7_3]: Aristot. Pol. 3.7 . 
-
