@@ -1,4 +1,5 @@
-# Chapter 12
+{#intent}
+# Chapter 12: Intent
 
 Such are the motives of injustice; let us now state the frame of mind of those who commit it, and who are the sufferers from it. Men do wrong when
 they think that it can be done and that it can be done by them; when they think that their action will either be undiscovered, or if discovered will

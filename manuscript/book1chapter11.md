@@ -1,4 +1,5 @@
-# Chapter 11
+{#motive}
+# Chapter 11: Motive
 
 Let it be assumed by us that pleasure is a certain movement of the soul, a sudden and perceptible settling down into its natural state, and pain the
 opposite. If such is the nature of pleasure, it is evident that that which produces the disposition we have just mentioned is pleasant, and that
@@ -17,6 +18,16 @@ assumption. [^^10_4] Such are all those which are called natural; for instance, 
 of food, thirst, hunger, the desire of such and such food in particular; the desires connected with taste, sexual pleasures, in a word, with touch,
 smell, hearing, and sight. I call those desires rational which are due to our being convinced; for there are many things which we desire to see or
 acquire when we have heard them spoken of and are convinced that they are pleasant.
+
+{blurb, icon: pencil}
+**editor's note:** The distinction between rational and irrational desires is important in the context of the ancient world. The Greeks believed that the rational mind was the highest form of human existence, and that the irrational desires of the body were to be controlled and subjugated by the rational mind. This is a recurring theme in Aristotle's work, and is also present in the works of his teacher, Plato.
+
+Modern law technically distinguishes between motive and intent. *"Intent"* in criminal law is synonymous with `Mens rea`, which means the mental
+state shows liability which is enforced by law as an element of a crime. *"Motive"* describes instead the reasons in the accused's background and
+station in life that are supposed to have induced the crime. Motives are often broken down into three categories; biological, social and personal.
+
+Recall that Aristotle lived in the fourth century BCE. Meaning he thought up these ideas about 2400 years ago.
+{/blurb}
 
 And if pleasure consists in the sensation of a certain emotion, and imagination is a weakened sensation, then both the man who remembers and the man
 who hopes will be attended by an imagination of what he remembers or hopes. [^^10_5] This being so, it is evident that there is pleasure both for

@@ -51,6 +51,11 @@ peculiar to individual peoples and all the tokens of what is esteemed among them
 hair long, for it is the mark of a gentleman, the performance of any servile task being difficult for one whose hair is long. And not carrying on
 any vulgar profession is noble, for a gentleman does not live in dependence on others.
 
+{blurb, icon: pencil}
+**editor's note:** Now that Aristotle has explained what true virtue is, he will go on to teach us how to make someone seem more praiseworthy 
+than they are. In modern times, we would call this *"being a spin-doctor"* or *"improving public relations"*.
+{/blurb}
+
 We must also assume, for the purpose of praise or blame, that qualities which closely resemble the real qualities are identical with them; for
 instance, that the cautious man is cold and designing, the simpleton good-natured, and the emotionless gentle. And in each case we must adopt a term
 from qualities closely connected, always in the more favorable sense; for instance, the choleric and passionate man may be spoken of as frank and
@@ -110,20 +115,17 @@ these are known their contraries are obvious, since blame is derived from the co
 
 [^^8_2]: Or, taking `εἰς εὐδαιμονίαν` with `βουλεύεσθαι`, “come to a wise decision conducive to their happiness.”
 
-[^^8_3]: i.e. the causes and results of virtue (Cope); or, the noble and the disgracefuli.e. the causes and results of virtue (Cope); or, the noble
-and the disgraceful (Jebb).
+[^^8_3]: i.e. the causes and results of virtue (Cope); or, the noble and the disgraceful (Jebb).
 
 [^^8_4]: Frag. 55 ( P.L.G. 3.).
 
 [^^8_5]: Frag. 28 ( P.L.G. 3.).
 
-[^^8_6]: Those whose qualities are extreme may be described as possessing the virtues of which these are the
-excess.
+[^^8_6]: Those whose qualities are extreme may be described as possessing the virtues of which these are the excess.
 
 [^^8_7]: Plat. Menex. 235d .
 
-[^^8_8]: Thus, the Scythians may be assumed to be brave and great hunters; the Spartans hardy, courageous, andThus, the Scythians may be assumed to
-be brave and great hunters; the Spartans hardy, courageous, and brief in speech; the Athenians fond of literature—and they should be praised
+[^^8_8]: Thus, the Scythians may be assumed to be brave and great hunters; the Spartans hardy, courageous, and brief in speech; the Athenians fond of literature—and they should be praised
 accordingly.
 
 [^^8_9]: That is, `τὸ τίμιον` looks as if it were really `καλόν`, and should be spoken as if it were so.
