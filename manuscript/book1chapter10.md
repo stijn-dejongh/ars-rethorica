@@ -31,7 +31,7 @@ and **desire**.
 *"intent"*. Even more interesting is the fact that Aristotle already recognized that the motives for committing a crime can be either rational 
 or emotional, and hints that the distinction between the two is important in determining the severity of the crime.
 
-These ideas are expanded upon in the next chapters: [#f](#motive), and [#f](#intent).
+These ideas are expanded upon in the next chapters: [#t](#motive), and [#t](#intent).
 
 {/blurb}
 

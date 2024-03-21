@@ -36,7 +36,7 @@ the artificial proofs, [^^0_7] which make a man a master of rhetorical argument.
 
 **editor's note:** Even though the different types of rhetoric (deliberative, forensic, and epideictic) are introduced and explained in 
 [#t](#types-of-rhetoric), Aristotle assumes the reader is already vaguely familiar with these terms.
-see [#f](#book-one-glossary)
+see [#t](#book-one-glossary)
 
 {/blurb}
 

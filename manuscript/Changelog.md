@@ -25,15 +25,20 @@ Following changes are known:
 
 ## Current: updates and errata
 
+> Revised chapters 1 through 12 of Book I
+
 ### Added
 
 - this changelog file
 - introduction to book I, explaining some of the more obscure references and stylistic choices
 - description of the editorial actions taken to make the book more accessible
+- glossary of terms, to help the modern reader understand the text better
+- editor's notes to clarify some of the more obscure phrasing, and to point out interesting connections to modern concepts
+- titles to the chapters, to make it easier to navigate the book
 
 ### Changed
 
-- Fix conversion errors in the book's content in chapters 1 through 10
+- Fix conversion errors in the book's content
 - Clean up some of the formatting
 
 ## First published version

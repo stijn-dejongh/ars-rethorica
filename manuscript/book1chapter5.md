@@ -12,7 +12,7 @@ rhetoric, as it is the goal of the speaker to convince the audience that their a
 This chapter is in part a continuation of the previous chapter, and in part Aristotle going on a tangent. In his ramblings on ethics, he takes the 
 time to insult the Spartans, and share his view on women's place in society. He will return to the main topic after a few chapters. 
 
-If you do not particularly care for his musings, you can skip to [#f](#epideictic-rethoric).
+If you do not particularly care for his musings, you can skip to [#t](#epideictic-rethoric).
 As the next chapters give a good insight into the mind of the ancient Greeks, and their ethics, I would advise you to revisit them before 
 continuing to the next book. 
 {/blurb}

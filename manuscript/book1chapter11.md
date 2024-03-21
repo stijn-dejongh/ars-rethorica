@@ -38,8 +38,8 @@ proves honorable or good; whence the saying: Truly it is pleasant to remember to
 much and accomplished much, he afterwards takes pleasure even in his sorrows when he recalls them. [^^10_7] The reason of this is that even to be
 free from evil is pleasant. Things which we hope for are pleasant, when their presence seems likely to afford us great pleasure or advantage,
 without the accompaniment of pain. In a word, all things that afford pleasure by their presence as a rule also afford pleasure when we hope for or
-remember them. Wherefore even resentment is pleasant, as Homer said of anger that it is Far sweeter than dripping honey; [^^10_8] for no one feels
-resentment against those whom vengeance clearly cannot overtake, or those who are far more powerful than he is; against such, men feel either no
+remember them. Wherefore even resentment is pleasant, as Homer said of anger that it is *"Far sweeter than dripping honey"*;[^^10_8] for no one 
+feels resentment against those whom vengeance clearly cannot overtake, or those who are far more powerful than he is; against such, men feel either no
 resentment or at any rate less.
 
 Most of our desires are accompanied by a feeling of pleasure, for the recollection of a past or the hope of a future pleasure creates a certain
@@ -48,7 +48,7 @@ drink again. The lovesick always take pleasure in talking, writing, or composing
 this recollection makes the object of their affection perceptible. Love always begins in this manner, when men are happy not only in the presence of
 the beloved, but also in his absence when they recall him to mind. This is why, even when his absence is painful, there is a certain amount of
 pleasure even in mourning and lamentation; for the pain is due to his absence, but there is pleasure in remembering and, as it were, seeing him and
-recalling his actions and personality. Wherefore it was rightly said by the poet; Thus he spake, and excited in all a desire of weeping. [^^10_10]
+recalling his actions and personality. Wherefore it was rightly said by the poet; *"Thus he spake, and excited in all a desire of weeping"*.[^^10_10]
 
 And revenge is pleasant; for if it is painful to be unsuccessful, it is pleasant to succeed. Now, those who are resentful are pained beyond measure
 when they fail to secure revenge, while the hope of it delights them. Victory is pleasant, not only to those who love to conquer, but to all; for
@@ -68,7 +68,7 @@ pleasant to be loved; for in this case also a man has an impression that he is r
 perceive it; and to be loved is to be cherished for one's own sake. And it is pleasant to be admired, because of the mere honor. Flattery and the
 flatterer are pleasant, the latter being a sham admirer and friend. It is pleasant to do the same things often; for that which is familiar is, as we
 said, pleasant. Change also is pleasant, since change is in the order of nature; for perpetual sameness creates an excess of the normal condition;
-whence it was said: Change in all things is sweet. [^^10_13] This is why what we only see at intervals, whether men or things, is pleasant; for
+whence it was said: *"Change in all things is sweet"*. [^^10_13] This is why what we only see at intervals, whether men or things, is pleasant; for
 there is a change from the present, and at the same time it is rare. And learning and admiring are as a rule pleasant; for admiring implies the
 desire to learn, so that what causes admiration is to be desired, and learning implies a return to the normal. [^^10_14] It is pleasant to bestow
 and to receive benefits; the latter is the attainment of what we desire, the former the possession of more than sufficient means, [^^10_15] both of
@@ -78,8 +78,12 @@ imitation, such as painting, sculpture, poetry, and all that is well imitated, e
 that causes pleasure or the reverse, but the inference that the imitation and the object imitated are identical, so that the result is that we learn
 something. The same may be said of sudden changes and narrow escapes from danger; for all these things excite wonder. And since that which is in
 accordance with nature is pleasant, and things which are akin are akin in accordance with nature, all things akin and like are for the most part
-pleasant to each other, as man to man; horse to horse, youth to youth. This is the origin of the proverbs: The old have charms for the old, the
-young for the young, Like to like, [^^10_16] Beast knows beast, Birds of a feather flock together, [^^10_17] and all similar sayings.
+pleasant to each other, as man to man; horse to horse, youth to youth. This is the origin of the proverbs: *"The old have charms for the old, the
+young for the young"*, *"Like to like"*, [^^10_16] *"Beast knows beast"*, *"Birds of a feather flock together"*, [^^10_17] and all similar sayings.
+
+{blurb, icon: pencil}
+**editor's note:** *"real recognize real"*, *"it takes one to know one"*, ...
+{/blurb}
 
 And since things which are akin and like are always pleasant to one another, and every man in the highest degree feels this in regard to himself, it
 must needs be that all men are more or less selfish; for it is in himself above all that such conditions [^^10_18] are to be found. Since, then, all
@@ -113,13 +117,13 @@ is sensation, and pleasure is sensation and a kind of movement (sect. 1). `φα�
 “imagination,” “mental impression,” “fantasy”) is defined by Aristotle ( Aristot. De Anima 3.3.11 ) as a kind of movement , which cannot arise apart
 from sensation, and the movement produced must resemble the sensation which produced it. But φαντασία is more than this; it is not merely a faculty
 of sense, but occupies a place midway between sense and intellect; while imagination has need of the senses, the intellect has need of imagination.
-If φαντασία is referred to an earlier perception of which the sense image is a copy, this is memory. Imagination carries the sense images (
-φαντάσματα ) to the seat of memory. They are then transformed into memory (of something past) or hope (of something future) and are handed on to the
+If `φαντασία` is referred to an earlier perception of which the sense image is a copy, this is memory. Imagination carries the sense images (
+`φαντάσματα` ) to the seat of memory. They are then transformed into memory (of something past) or hope (of something future) and are handed on to the
 intellect. (See Cope here, and R. D. Hicks in his edition of the De Anima .)
 
 [^^10_6]: Euripides,Euripides, Andromeda (Frag. 133, T.G.F. ).
 
-[^^10_7]: Hom. Od. 15.400-401 , but misquoted in the second line, which runs: ὅς τις δὴ μάλα πολλὰ πάθῃ καὶ πόλλ᾽ ἐπαληθῇ .
+[^^10_7]: Hom. Od. 15.400-401 , but misquoted in the second line, which runs: `ὅς τις δὴ μάλα πολλὰ πάθῃ καὶ πόλλ᾽ ἐπαληθῇ`.
 
 [^^10_8]: Hom. Il. 18.109 .
 
@@ -127,10 +131,10 @@ intellect. (See Cope here, and R. D. Hicks in his edition of the De Anima .)
 
 [^^10_10]: Hom. Il. 23.108 , on the occasion of the mourning for Patroclus; Hom. Od. 4.183 , referring to the mourning for the absence of Odysseus.
 
-[^^10_11]: Controversiae or school rhetorical exercises, as well as arguing in the law courts; unless ἐριστικάς means simply “in which there is
+[^^10_11]: Controversiae or school rhetorical exercises, as well as arguing in the law courts; unless `ἐριστικάς` means simply “in which there is
 rivalry.”
 
-[^^10_12]: For the meaning of φιλία, φιλεῖν cf. Book 2.4.
+[^^10_12]: For the meaning of `φιλία, φιλεῖν` cf. Book 2.4.
 
 [^^10_13]: Eur. Orest. 234 .
 
@@ -145,11 +149,11 @@ is pleasure, which is defined (11.1) as a settling down of the soul into its nat
 
 [^^10_18]: Of likeness and kinship.
 
-[^^10_19]: 11.22.11.22.
+[^^10_19]: 11.22.
 
 [^^10_20]: Both practically and speculatively or philosophically.
 
 [^^10_21]: Antiope (Frag. 183, T.G.F. ).
 
-[^^10_22]: Only the definition appears in the existing text; “The ridiculous is an error, painless and non-destructive ugliness ( Aristot. Poet. 5 ).” 
+[^^10_22]: Only the definition appears in the existing text; *“The ridiculous is an error, painless and non-destructive ugliness"* ( Aristot. Poet. 5 ).
 
