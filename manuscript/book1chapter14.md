@@ -1,4 +1,5 @@
-# Chapter 14
+{#severity}
+# Chapter 14: Severity of transgressions
 
 Wrong acts are greater in proportion to the injustice from which they spring. For this reason the most trifling are sometimes the greatest, as in
 the charge brought by Callistratus [^^13_1] against Melanopus that he had fraudulently kept back three consecrated half-obols from the
@@ -25,8 +26,7 @@ suffice for the treatment of the greater or less degree of wrongdoing.
 
 {pagebreak}
 
-[^^13_1]: 1.7.13. Callistratus and Melanopus were rival orators. Nothing is known of this particular1.7.13. Callistratus and Melanopus were rival
-orators. Nothing is known of this particular charge.
+[^^13_1]: 1.7.13. Callistratus and Melanopus were rival orators. Nothing is known of this particular charge.
 
 [^^13_2]: The magistrates who superintended the building and repairing operations.
 
@@ -39,4 +39,3 @@ orators. Nothing is known of this particular charge.
 [^^13_6]: And therefore the violation of them is more discreditable.
 
 [^^13_7]: When he thinks of the punishment they may entail. 
-

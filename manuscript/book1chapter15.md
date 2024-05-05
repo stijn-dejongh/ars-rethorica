@@ -1,4 +1,5 @@
-# Chapter 15
+{#proceedings}
+# Chapter 15: Trial Proceedings
 
 Following on what we have just spoken of, we have now briefly to run over what are called the inartificial proofs, for these properly belong to
 forensic oratory. These proofs are five in number: laws, witnesses, contracts, torture, oaths. Let us first then speak of the laws, and state what
@@ -8,14 +9,14 @@ oath to decide to the best of his judgement, he means that he will not abide rig
 changes, even as the general law, which is based on nature, whereas the written laws often vary (this is why Antigone in Sophocles justifies herself
 for having buried Polynices contrary to the law of Creon, but not contrary to the unwritten law: For this law is not of now or yesterday, but is
 eternal . . . this I was not likely [to infringe through fear of the pride] of any man); [^^14_2] and further, that justice is real and expedient,
-but not that which only appears just; nor the written law either, because it does not do the work of the law [^^14_3] ; that the judge is like an
+but not that which only appears just; nor the written law either, because it does not do the work of the law[^^14_3] ; that the judge is like an
 assayer of silver, whose duty is to distinguish spurious from genuine justice; that it is the part of a better man to make use of and abide by the
 unwritten rather than the written law. [^^14_4] Again, it is necessary to see whether the law is contradictory to another approved law or to itself;
 for instance, one law enacts that all contracts should be binding, while another forbids making contracts contrary to the law. If the meaning of the
 law is equivocal, we must turn it about, and see in which way it is to be interpreted so as to suit the application of justice or expediency, and
 have recourse to that. If the conditions which led to the enactment of the law are now obsolete, while the law itself remains, one must endeavor to
 make this clear and to combat the law by this argument. But if the written law favors our case, we must say that the oath of the dicast “to decide
-to the best of his judgement” does not justify him in deciding contrary to the law, but is only i ntended to relieve him from the charge of perjury,
+to the best of his judgement” does not justify him in deciding contrary to the law, but is only intended to relieve him from the charge of perjury,
 if he is ignorant of the meaning of the law; that no one chooses that which is good absolutely, but that which is good for himself; that there is no
 difference between not using the laws and their not being enacted; that in the other arts there is no advantage in trying to be wiser than the
 physician, for an error on his part does not do so much harm as the habit of disobeying the authority; that to seek to be wiser than the laws is
@@ -27,19 +28,19 @@ witness, and recently the inhabitants of Tenedos to Periander of Corinth [^^14_6
 Solon against Critias, to prove that his family had long been notorious for licentiousness, otherwise Solon would never have written: Bid me the
 fair-haired Critias listen to his father. [^^14_7] One should appeal to such witnesses for the past, but also to interpreters of oracles for the
 future; thus, for instance, Themistocles interpreted the wooden wall to mean that they must fight at sea. [^^14_8] Further, proverbs, as
-stated, [^^14_9] are evidence; for instance, if one man advises another not to make a friend of an old man, he can appeal to the proverb, Never do
-good to an old man. And if he advises another to kill the children, after having killed the fathers, he can say, Foolish is he who, having killed
-the father, suffers the children to live. [^^14_10]
+stated, [^^14_9] are evidence; for instance, if one man advises another not to make a friend of an old man, he can appeal to the proverb, 
+__"Never do good to an old man"__. And if he advises another to kill the children, after having killed the fathers, he can say, __"Foolish is he 
+who, having killed the father, suffers the children to live"__.[^^14_10]
 
 By recent witnesses I mean all well-known persons who have given a decision on any point, for their decisions are useful to those who are arguing
 about similar cases. Thus for instance, Eubulus, [^^14_11] when attacking Chares in the law courts, made use of what Plato said against Archibius,
-namely, “that the open confession of wickedness had increased in the city.” And those who share the risk of the trial, if they are thought to be
+namely, __“that the open confession of wickedness had increased in the city.”__ And those who share the risk of the trial, if they are thought to be
 perjurers. Such witnesses only serve to establish whether an act has taken place or not, whether it is or is not the case; but if it is a question
 of the quality of the act, for instance, whether it is just or unjust, expedient or inexpedient, they are not competent witnesses; but witnesses
 from a distance [^^14_12] are very trustworthy even in regard to this. But ancient witnesses are the most trustworthy of all, for they cannot be
 corrupted. In regard to the confirmation of evidence, when a man has no witnesses, he can say that the decision should be given in accordance with
-probabilities, and that this is the meaning of the oath “according to the best of one's judgement”; that probabilities cannot be bribed to deceive,
-and that they cannot be convicted of bearing false witness. But if a man has witnesses and his adversary has none, he can say that probabilities
+probabilities, and that this is the meaning of the oath __“according to the best of one's judgement”__; that probabilities cannot be bribed to 
+deceive, and that they cannot be convicted of bearing false witness. But if a man has witnesses and his adversary has none, he can say that probabilities
 incur no responsibility, and that there would have been no need of evidence, if an investigation according to the arguments were sufficient.
 Evidence partly concerns ourselves, partly our adversary, as to the fact itself or moral character; so that it is evident that one never need lack
 useful evidence. For, if we have no evidence as to the fact itself, neither in confirmation of our own case nor against our opponent, it will always
@@ -82,7 +83,7 @@ because the risk incurred in leaving the decision to the dicasts is preferable, 
 adversary. [^^14_14] If you refuse to take the oath yourself, you may argue that the oath is only taken with a view to money; that, if you had been
 a scoundrel, you would have taken it at once, for it is better to be a scoundrel for something than for nothing; that, if you take it, you will win
 your case, if not, you will probably lose it; consequently, your refusal to take it is due to moral excellence, not to fear of committing perjury.
-And the apophthegm of Xenophanes [^^14_15] is apposite— that “it is unfair for an impious man to challenge a pious one,” for it is the same as a
+And the apophthegm of Xenophanes [^^14_15] is apposite— that __“it is unfair for an impious man to challenge a pious one,”__ for it is the same as a
 strong man challenging a weak one to hit or be hit. If you accept the oath, you may say that you have confidence in yourself, but not in your
 opponent, and, reversing the apophthegm of Xenophanes, that the only fair way is that the impious man should tender the oath and the pious man take
 it; and that it would be monstrous to refuse to take the oath yourself, while demanding that the judges should take it before giving their verdict.
@@ -90,34 +91,33 @@ But if you tender the oath, you may say that it is an act of piety to be willing
 look for other judges, for you allow him to make the decision himself; and that it would be ridiculous that he should be unwilling to take an oath
 in cases where he demands that the dicasts should take one.
 
-Now, since we have shown how we must deal with each case individually, it is clear how we must deal with them when taken two and two; for instance, if we wish to take the oath but not to tender it, to tender it but not
-to take it, to accept and tender it, or to do neither the one nor the other. For such cases, and similarly the arguments, must be a combination of
-those already mentioned. And if we have already taken an oath which contradicts the present one, we may argue that it is not perjury; for whereas
-wrongdoing is voluntary, and perjury is wrongdoing, what is done in error or under compulsion is involuntary. Here we must draw the conclusion that
+Now, since we have shown how we must deal with each case individually, it is clear how we must deal with them when taken two and two; for instance, 
+if we wish to take the oath but not to tender it, to tender it but not to take it, to accept and tender it, or to do neither the one nor the other. 
+For such cases, and similarly the arguments, must be a combination of those already mentioned. And if we have already taken an oath which contradicts 
+the present one, we may argue that it is not perjury; for whereas wrongdoing is voluntary, and perjury is wrongdoing, 
+what is done in error or under compulsion is involuntary. Here we must draw the conclusion that
 perjury consists in the intention, not in what is said. [^^14_16] But if the opponent has taken such an oath, we may say that one who does not abide
 by what be has sworn subverts everything, for this is the reason why the dicasts take an oath before applying the laws;
-and [we may make this appeal] : “They demand that you abide by your oath as judges, while they themselves do not abide by theirs.” Further, we
-should employ all means of amplification. Let this suffice for the inartificial proofs.
+and [we may make this appeal] : __“They demand that you abide by your oath as judges, while they themselves do not abide by theirs.”__ 
+Further, we should employ all means of amplification. Let this suffice for the inartificial proofs.
 
 {pagebreak}
 
-[^^14_1]: Although the use of inartificial proofs is
-almost entirely confined to forensic oratory, they may be used in deliberative oratory.
+[^^14_1]: Although the use of inartificial proofs is almost entirely confined to forensic oratory, they may be used in deliberative oratory.
 
 [^^14_2]: The first line is quoted 1.13.2. The second differs somewhat from Soph. Ant. 458 , where the
 passage runs, τούτων ἐγὼ οὐκ ἔμελλον, ἀνδρὸς οὐδινὸς φρόνημα δείσασ᾽, ἐν θεοῖσι τὴν δίκην δώσειν (“I was not likely, through fear of the pride of
 any man, to incur the penalty for violating these statutes at the bar of heaven”).
 
-[^^14_3]: Which is the administration of real justice, not that which appears to the legislator to be such and is embodied in legal enactments.Which
-is the administration of real justice, not that which appears to the legislator to be such and is embodied in legal enactments.
+[^^14_3]: Which is the administration of real justice, not that which appears to the legislator to be such and is embodied in legal enactments.
 
-[^^14_4]: Cp.14.7 above.Cp.14.7 above.
+[^^14_4]: Cp.14.7 above.
 
 [^^14_5]: Αἴας δ᾽ ἐκ Σαλαμῖνος ἄγεν δυοκαίδεκα νῆας, στῆσε δ᾽ ἄγων ἵν᾽ Α᾿θηναίων ἵσταντο φάλαγγες , Hom. Il. 2.557-558 . The Lacedaemonians, acting
 as arbitrators between Athens and Megara, who were fighting for the possession of Salamis , decided in favor of Athens on the strength of the two
 lines in the Iliad , which were taken to show that Salamis belonged to Athens . It was reported that the second line was the invention of Solon.
 
-[^^14_6]: It is not known to what this refers.It is not known to what this refers.
+[^^14_6]: It is not known to what this refers.
 
 [^^14_7]: (Frag. 22,(Frag. 22, P.L.G. 2, where the line runs, εἰπέμεναι Κριτίᾳ ξανθότριχι πατρὸς ἀκούειν ). The Critias attacked by Cleophon is the
 well-known oligarch and grandson of the first. Cleophon argued from the phrase “bid him listen to his father” that his ancestor was a disobedient
@@ -137,12 +137,10 @@ son and a degenerate. In reality, Solon had a high opinion of the family, and pr
 was one method of deciding it. One party offered the other something to swear by ( δίδωσι ὅρκον ), this being the real meaning of ὅρκος , and the
 other party either accepted ( λαμβάνει, δέχεται ) it or refused it. Both parties, of their own accord, might propose to take the oath.
 
-[^^14_14]: There are three reasons for not tendering the oath: (1)There are three reasons for not tendering the oath: (1) men are always ready to
-perjure themselves, if they are likely to benefit by doing so; (2) if your adversary takes the oath, he will decline to pay, trusting that he will
-be acquitted, whereas, if he is not on his oath, he will probably be condemned; (3) there is less risk in leaving the decision to the dicasts, who
-can be trusted.
+[^^14_14]:There are three reasons for not tendering the oath: (1) men are always ready to perjure themselves, if they are likely to benefit by doing so; 
+(2) if your adversary takes the oath, he will decline to pay, trusting that he will be acquitted, whereas, if he is not on his oath, he will probably be condemned; 
+(3) there is less risk in leaving the decision to the dicasts, who can be trusted.
 
-[^^14_15]: Born at Colophon in Asia Minor , he migrated to Elea in Italy , where he founded the Eleatic school of philosophy.
+[^^14_15]: Born at Colophon in Asia Minor, he migrated to Elea in Italy, where he founded the Eleatic school of philosophy.
 
 [^^14_16]: The defence in such cases is: (1) that the previous oath was taken as a result of fraud or compulsion; (2) that you did not mean what you said. 
-
